@@ -1,0 +1,36 @@
+# システム全体の設定値
+# ここを変更するだけで、コードを触らずに挙動を調整できます。
+
+database:
+  path: "data/db/market.sqlite"
+
+analysis:
+  # 逆相関候補として抽出する相関係数の閾値（これ以下を逆相関候補とする）
+  inverse_correlation_threshold: -0.50
+  # 相関・リターン計算の対象期間（日数ベース、取引日換算のおおよその値）
+  correlation_windows_days:
+    1M: 21
+    3M: 63
+    6M: 126
+    1Y: 252
+    3Y: 756
+  return_windows_days:
+    1D: 1
+    5D: 5
+    20D: 20
+    60D: 60
+    1Y: 252
+  volatility_windows_days:
+    20D: 20
+    60D: 60
+
+paper_portfolio:
+  initial_cash_jpy: 1000000
+
+data_source:
+  # 株価取得の第一候補。取得できない場合に備え、交換可能な構造にする。
+  primary: "yfinance"
+
+news:
+  # Phase 7以降で使用。無料RSSソースをここに追加していく。
+  sources: []

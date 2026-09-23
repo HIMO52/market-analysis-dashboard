@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# --- 環境変数・秘密情報 ---
+.env
+*.local
+
+# --- データベース・生成データ ---
+data/db/*.sqlite
+data/db/*.sqlite3
+data/raw/*
+!data/raw/.gitkeep
+
+# --- Webサイト生成物（Actionsが毎回作るので基本コミット不要） ---
+docs/data/*.json
+docs/data/*.json.gz
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- エディタ ---
+.vscode/
+.idea/

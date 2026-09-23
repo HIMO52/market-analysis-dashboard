@@ -1,0 +1,65 @@
+# 監視銘柄リスト
+# ここに追加・削除するだけで、取得対象の銘柄を変更できます。
+# category は表示のグルーピングに使うだけで、取得処理には影響しません。
+
+tickers:
+  - symbol: SPY
+    category: broad_market
+    name: S&P 500 ETF
+  - symbol: QQQ
+    category: broad_market
+    name: Nasdaq 100 ETF
+  - symbol: IWM
+    category: broad_market
+    name: Russell 2000 ETF
+  - symbol: DIA
+    category: broad_market
+    name: Dow Jones ETF
+  - symbol: XLF
+    category: sector
+    name: Financial Sector ETF
+  - symbol: XLE
+    category: sector
+    name: Energy Sector ETF
+  - symbol: XLK
+    category: sector
+    name: Technology Sector ETF
+  - symbol: XLV
+    category: sector
+    name: Health Care Sector ETF
+  - symbol: XLI
+    category: sector
+    name: Industrial Sector ETF
+  - symbol: XLP
+    category: sector
+    name: Consumer Staples Sector ETF
+  - symbol: XLU
+    category: sector
+    name: Utilities Sector ETF
+  - symbol: XLY
+    category: sector
+    name: Consumer Discretionary Sector ETF
+  - symbol: XLC
+    category: sector
+    name: Communication Services Sector ETF
+  - symbol: XLB
+    category: sector
+    name: Materials Sector ETF
+  - symbol: TLT
+    category: bonds
+    name: 20+ Year Treasury Bond ETF
+  - symbol: GLD
+    category: commodity
+    name: Gold ETF
+  - symbol: SLV
+    category: commodity
+    name: Silver ETF
+  - symbol: USO
+    category: commodity
+    name: Oil ETF
+  - symbol: JETS
+    category: thematic
+    name: Airline ETF
+  - symbol: SMH
+    category: thematic
+    name: Semiconductor ETF

@@ -1,0 +1,15 @@
+# --- コア ---
+pandas>=2.2
+numpy>=1.26
+python-dotenv>=1.0
+PyYAML>=6.0
+
+# --- 株価データ取得（無料・APIキー不要） ---
+yfinance>=0.2.40
+
+# --- HTTP / ニュース取得（Phase 7以降で使用） ---
+requests>=2.32
+feedparser>=6.0
+
+# --- テスト ---
+pytest>=8.0
