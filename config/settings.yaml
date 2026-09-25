@@ -32,5 +32,13 @@ data_source:
   primary: "yfinance"
 
 news:
-  # Phase 7以降で使用。無料RSSソースをここに追加していく。
-  sources: []
+  # 無料の公開RSSフィード。RSSは元々「配信・購読されること」を目的とした
+  # 公開フォーマットだが、各サイトの利用規約は変わることがあるので、
+  # 定期的に確認することを推奨する。
+  sources:
+    - name: "CNBC Top News"
+      url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    - name: "MarketWatch Top Stories"
+      url: "https://www.marketwatch.com/rss/topstories"
+    - name: "WSJ Markets"
+      url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"

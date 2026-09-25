@@ -47,3 +47,9 @@ def get_db_path() -> Path:
     settings = load_settings()
     relative_path = settings["database"]["path"]
     return PROJECT_ROOT / relative_path
+
+
+def get_news_sources() -> list[dict[str, Any]]:
+    """config/settings.yaml の news.sources を返す（[{"name": ..., "url": ...}, ...]）。"""
+    settings = load_settings()
+    return settings.get("news", {}).get("sources", [])

@@ -32,6 +32,19 @@ CREATE TABLE IF NOT EXISTS prices (
 
 CREATE INDEX IF NOT EXISTS idx_prices_ticker_timestamp
     ON prices (ticker, timestamp);
+
+CREATE TABLE IF NOT EXISTS news (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    url TEXT NOT NULL,
+    published_at TEXT,
+    retrieved_at TEXT NOT NULL,
+    source TEXT NOT NULL,
+    UNIQUE(url)
+);
+
+CREATE INDEX IF NOT EXISTS idx_news_published_at
+    ON news (published_at);
 """
 
 
@@ -114,4 +127,44 @@ def load_prices(conn: sqlite3.Connection, ticker: str) -> pd.DataFrame:
         "SELECT * FROM prices WHERE ticker = ? ORDER BY timestamp ASC",
         conn,
         params=(ticker,),
+    )
+
+
+def save_news(conn: sqlite3.Connection, articles: list[dict]) -> int:
+    """
+    ニュース記事のリストをnewsテーブルに保存する。
+
+    URL(url列)にUNIQUE制約があるため、同じ記事を何度取得しても
+    重複して保存されることはない。
+
+    Args:
+        articles: [{"title":..., "url":..., "published_at":..., "source":..., "retrieved_at":...}, ...]
+
+    Returns:
+        新しく挿入された行数（重複でスキップされた件数は含まない）
+    """
+    if not articles:
+        return 0
+
+    before = conn.execute("SELECT COUNT(*) FROM news").fetchone()[0]
+
+    conn.executemany(
+        """
+        INSERT OR IGNORE INTO news (title, url, published_at, retrieved_at, source)
+        VALUES (:title, :url, :published_at, :retrieved_at, :source)
+        """,
+        articles,
+    )
+    conn.commit()
+
+    after = conn.execute("SELECT COUNT(*) FROM news").fetchone()[0]
+    return after - before
+
+
+def load_news(conn: sqlite3.Connection, limit: int = 50) -> pd.DataFrame:
+    """最新のニュースを、公開日時が新しい順に取得する。"""
+    return pd.read_sql_query(
+        "SELECT * FROM news ORDER BY published_at DESC LIMIT ?",
+        conn,
+        params=(limit,),
     )

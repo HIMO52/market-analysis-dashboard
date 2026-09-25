@@ -1,6 +1,6 @@
 """config.py が設定ファイルを正しく読み込めるかを確認するテスト。"""
 
-from src.config import get_db_path, get_ticker_symbols, load_settings, load_tickers
+from src.config import get_db_path, get_news_sources, get_ticker_symbols, load_settings, load_tickers
 
 
 def test_load_settings_returns_dict():
@@ -39,3 +39,12 @@ def test_get_db_path_is_under_data_db():
     assert "data" in path.parts
     assert "db" in path.parts
     assert path.name == "market.sqlite"
+
+
+def test_get_news_sources_returns_list_with_name_and_url():
+    sources = get_news_sources()
+    assert isinstance(sources, list)
+    assert len(sources) >= 1
+    for src in sources:
+        assert "name" in src
+        assert "url" in src
