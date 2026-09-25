@@ -50,7 +50,15 @@ def normalize_yfinance_dataframe(raw: pd.DataFrame, symbol: str) -> pd.DataFrame
             f"{symbol}: yfinanceの応答に想定した列がありません: {missing}"
         )
 
-    return df[REQUIRED_COLUMNS].copy()
+    df = df[REQUIRED_COLUMNS].copy()
+
+    # closeが無い行（その日の取引がまだ確定していない「未確定行」）は、
+    # 存在しないデータとして扱い保存しない。推測で埋めることはしない。
+    df = df.dropna(subset=["close"]).reset_index(drop=True)
+    if df.empty:
+        raise DataSourceError(f"{symbol}: 有効な終値データが1件も取得できませんでした")
+
+    return df
 
 
 class YFinanceSource(PriceDataSource):

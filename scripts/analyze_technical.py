@@ -32,6 +32,10 @@ def main() -> int:
             continue
 
         df["timestamp"] = pd.to_datetime(df["timestamp"], utc=True)
+        df = df.dropna(subset=["close"])  # 念のため、close欠損行があれば除外
+        if df.empty:
+            print(f"{symbol}: 有効なデータがありません")
+            continue
         result = add_technical_indicators(df)
         latest = result.iloc[-1]
 

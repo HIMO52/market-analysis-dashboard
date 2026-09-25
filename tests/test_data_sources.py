@@ -66,6 +66,24 @@ def test_normalize_yfinance_dataframe_missing_adjusted_close_falls_back():
     assert (df["adjusted_close"] == df["close"]).all()
 
 
+def test_normalize_yfinance_dataframe_drops_unconfirmed_trailing_row():
+    raw = _fake_yfinance_raw_dataframe()
+    # yfinanceが返すことのある「未確定の最新行」（全部NaN）を模す
+    extra_index = pd.to_datetime(["2026-01-07"])
+    extra_index.name = "Date"
+    unconfirmed_row = pd.DataFrame(
+        {"Open": [None], "High": [None], "Low": [None], "Close": [None],
+         "Volume": [None], "Adj Close": [None]},
+        index=extra_index,
+    )
+    raw_with_gap = pd.concat([raw, unconfirmed_row])
+
+    df = normalize_yfinance_dataframe(raw_with_gap, "SPY")
+
+    assert len(df) == 2  # 未確定行は除外され、元の2行だけが残る
+    assert df["close"].isna().sum() == 0
+
+
 # ---- fetch_all / fetch_and_tag のテスト（ダミーのデータ取得元を使用） ----
 
 class DummySource(PriceDataSource):
