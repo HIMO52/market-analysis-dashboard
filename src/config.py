@@ -53,3 +53,11 @@ def get_news_sources() -> list[dict[str, Any]]:
     """config/settings.yaml の news.sources を返す（[{"name": ..., "url": ...}, ...]）。"""
     settings = load_settings()
     return settings.get("news", {}).get("sources", [])
+
+
+def load_market_events() -> list[dict[str, Any]]:
+    """config/market_events.yaml を読み込み、市場イベントのリストを返す。"""
+    path = CONFIG_DIR / "market_events.yaml"
+    with open(path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    return data.get("events", [])

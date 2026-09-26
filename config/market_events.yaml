@@ -1,0 +1,44 @@
+# 市場イベントカレンダー（手動管理）
+#
+# 出所: FRB（米連邦準備制度理事会）が事前に公表する年間スケジュール
+# https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+#
+# 【重要】CPI・雇用統計・GDP・小売売上高などの発表日については、
+# 信頼できる無料データソース（API等）が確認できなかったため、
+# 現時点ではこのカレンダーに含めていません。
+# 「取得元が無い場合は無理に作らない」という方針のためです。
+# 良い無料ソースが見つかり次第、同じ形式で追加してください。
+
+events:
+  - name: "FOMC会合"
+    type: "FOMC"
+    start_date: "2026-01-27"
+    end_date: "2026-01-28"
+  - name: "FOMC会合（経済見通し公表あり）"
+    type: "FOMC"
+    start_date: "2026-03-17"
+    end_date: "2026-03-18"
+  - name: "FOMC会合"
+    type: "FOMC"
+    start_date: "2026-04-28"
+    end_date: "2026-04-29"
+  - name: "FOMC会合（経済見通し公表あり）"
+    type: "FOMC"
+    start_date: "2026-06-16"
+    end_date: "2026-06-17"
+  - name: "FOMC会合"
+    type: "FOMC"
+    start_date: "2026-07-28"
+    end_date: "2026-07-29"
+  - name: "FOMC会合（経済見通し公表あり）"
+    type: "FOMC"
+    start_date: "2026-09-15"
+    end_date: "2026-09-16"
+  - name: "FOMC会合"
+    type: "FOMC"
+    start_date: "2026-10-27"
+    end_date: "2026-10-28"
+  - name: "FOMC会合（経済見通し公表あり）"
+    type: "FOMC"
+    start_date: "2026-12-08"
+    end_date: "2026-12-09"
