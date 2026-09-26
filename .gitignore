@@ -13,8 +13,9 @@ env/
 *.local
 
 # --- データベース・生成データ ---
-data/db/*.sqlite
-data/db/*.sqlite3
+# 【重要】GitHub Actionsは毎回まっさらな環境で実行されるため、
+# 株価・ニュースのデータを引き継ぐには、DBファイル自体をリポジトリに
+# コミットする必要がある。そのため意図的に除外しない（Phase 12/13）。
 data/raw/*
 !data/raw/.gitkeep
 

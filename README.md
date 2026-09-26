@@ -34,7 +34,7 @@ PCは最初の開発時だけ使い、完成後は起動しっぱなしにする
 | 7 | ニュース収集 | ✅ 完了 |
 | 8〜9 | ニュース関連付け・重要度 | ✅ 完了 |
 | 10〜11 | 市場イベント・値動き分析 | ✅ 完了 |
-| 12〜13 | GitHub Actions定期実行 | 未着手 |
+| 12〜13 | GitHub Actions定期実行 | ✅ 完了 |
 | 14 | Webダッシュボード / GitHub Pages | 未着手 |
 
 ## フォルダ構成
@@ -75,6 +75,18 @@ cp .env.example .env
 # 4. テストを実行
 pytest tests/ -v
 ```
+
+## GitHub Actionsを動かすための設定（1回だけ）
+
+GitHub Actionsが取得したデータをリポジトリに書き戻せるように、権限設定が必要です。
+
+1. GitHubでこのリポジトリを開く
+2. `Settings` → 左メニューの `Actions` → `General`
+3. 下の方にある `Workflow permissions` までスクロール
+4. `Read and write permissions` を選択
+5. `Save` を押す
+
+これをやらないと、Actionsは実行できてもデータの保存（push）でエラーになります。
 
 ## APIキー・秘密情報の扱い方（GitHub Secretsの設定手順）
 

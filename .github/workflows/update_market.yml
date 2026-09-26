@@ -1,0 +1,79 @@
+name: Update Market Data
+
+# 実行タイミング:
+#   - 平日（月〜金）UTC 11:00（日本時間 朝20:00頃）… 米国市場のプレマーケット/ニュース中心
+#   - 平日（月〜金）UTC 21:30（日本時間 朝6:30頃）… 米国市場の引け後、確定した終値を取得
+#   - workflow_dispatch により、いつでも手動実行可能
+#
+# 【重要】無料枠・レート制限への配慮のため、1日2回・平日のみに絞っている。
+# 「リアルタイム」ではなく、あくまで定期更新であることに注意（Phase 12の方針）。
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}
+
+# データをリポジトリにコミットして戻すために書き込み権限が必要
+permissions:
+  contents: write
+
+# 同時実行を防ぐ（前回の実行が終わる前に次が始まらないようにする）
+concurrency:
+  group: update-market-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: 依存パッケージをインストール
+        run: pip install -r requirements.txt
+
+      - name: テストを実行（ここで失敗したら以降のステップは中止）
+        run: python -m pytest tests/ -v
+
+      - name: 株価データを更新
+        id: update_market_data
+        continue-on-error: true
+        run: python scripts/update_market_data.py
+
+      - name: ニュースを取得
+        id: fetch_news
+        continue-on-error: true
+        run: python scripts/fetch_news.py
+
+      - name: ニュースにタグ付け
+        id: tag_news
+        continue-on-error: true
+        run: python scripts/tag_news.py
+
+      - name: 変更をコミットしてpush
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/db/market.sqlite
+          if git diff --cached --quiet; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git commit -m "chore: automated data update ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
+
+      - name: いずれかのデータ取得ステップが失敗していたらワークフロー全体を失敗扱いにする
+        if: >-
+          steps.update_market_data.outcome == 'failure' ||
+          steps.fetch_news.outcome == 'failure' ||
+          steps.tag_news.outcome == 'failure'
+        run: |
+          echo "一部のステップが失敗しました。上のログを確認してください。"
+          exit 1
