@@ -59,9 +59,20 @@ def get_connection(db_path: str | Path) -> sqlite3.Connection:
     return conn
 
 
+def _ensure_column(conn: sqlite3.Connection, table: str, column: str, col_type: str) -> None:
+    """指定したテーブルに列が無ければ追加する（既存DBへの後方互換マイグレーション）。"""
+    existing = {row[1] for row in conn.execute(f"PRAGMA table_info({table})")}
+    if column not in existing:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {col_type}")
+
+
 def init_db(conn: sqlite3.Connection) -> None:
     """テーブル・インデックスが無ければ作成する（既にあれば何もしない）。"""
     conn.executescript(SCHEMA)
+    # Phase 8/9で追加した列。既に稼働中のDBにも安全に列を追加できるようにする
+    _ensure_column(conn, "news", "related_tickers", "TEXT")
+    _ensure_column(conn, "news", "importance", "TEXT")
+    _ensure_column(conn, "news", "importance_keywords", "TEXT")
     conn.commit()
 
 
@@ -168,3 +179,36 @@ def load_news(conn: sqlite3.Connection, limit: int = 50) -> pd.DataFrame:
         conn,
         params=(limit,),
     )
+
+
+def load_all_news(conn: sqlite3.Connection) -> pd.DataFrame:
+    """保存済みの全ニュースを取得する（Phase 8/9のタグ付け処理などで使用）。"""
+    return pd.read_sql_query("SELECT * FROM news ORDER BY published_at DESC", conn)
+
+
+def update_news_tags(conn: sqlite3.Connection, updates: list[dict]) -> int:
+    """
+    ニュース記事の関連銘柄・重要度をまとめて更新する。
+
+    Args:
+        updates: [{"url": ..., "related_tickers": "XLE,USO",
+                    "importance": "HIGH", "importance_keywords": "oil,opec"}, ...]
+
+    Returns:
+        更新件数
+    """
+    if not updates:
+        return 0
+
+    conn.executemany(
+        """
+        UPDATE news
+        SET related_tickers = :related_tickers,
+            importance = :importance,
+            importance_keywords = :importance_keywords
+        WHERE url = :url
+        """,
+        updates,
+    )
+    conn.commit()
+    return len(updates)

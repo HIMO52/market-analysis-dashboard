@@ -1,65 +1,87 @@
 # 監視銘柄リスト
 # ここに追加・削除するだけで、取得対象の銘柄を変更できます。
 # category は表示のグルーピングに使うだけで、取得処理には影響しません。
+# keywords は、ニュース記事のタイトルとの関連付け（Phase 8）に使う
+# キーワード一覧です。ここに追加するだけで関連付けのルールを調整できます。
 
 tickers:
   - symbol: SPY
     category: broad_market
     name: S&P 500 ETF
+    keywords: ["s&p 500", "s&p500", "wall street", "stock market"]
   - symbol: QQQ
     category: broad_market
     name: Nasdaq 100 ETF
+    keywords: ["nasdaq", "tech stocks", "technology stocks"]
   - symbol: IWM
     category: broad_market
     name: Russell 2000 ETF
+    keywords: ["russell 2000", "small-cap", "small cap stocks"]
   - symbol: DIA
     category: broad_market
     name: Dow Jones ETF
+    keywords: ["dow jones", "dow industrial"]
   - symbol: XLF
     category: sector
     name: Financial Sector ETF
+    keywords: ["bank", "banks", "financial sector", "banking", "lender"]
   - symbol: XLE
     category: sector
     name: Energy Sector ETF
+    keywords: ["oil", "energy sector", "crude", "opec", "natural gas"]
   - symbol: XLK
     category: sector
     name: Technology Sector ETF
+    keywords: ["tech sector", "technology sector", "semiconductor", "software"]
   - symbol: XLV
     category: sector
     name: Health Care Sector ETF
+    keywords: ["health care", "healthcare", "pharma", "drugmaker", "biotech"]
   - symbol: XLI
     category: sector
     name: Industrial Sector ETF
+    keywords: ["industrial", "manufacturing", "factory output"]
   - symbol: XLP
     category: sector
     name: Consumer Staples Sector ETF
+    keywords: ["consumer staples", "grocery", "household goods"]
   - symbol: XLU
     category: sector
     name: Utilities Sector ETF
+    keywords: ["utility", "utilities", "power grid", "electricity"]
   - symbol: XLY
     category: sector
     name: Consumer Discretionary Sector ETF
+    keywords: ["consumer discretionary", "retail sales", "retailer"]
   - symbol: XLC
     category: sector
     name: Communication Services Sector ETF
+    keywords: ["media", "telecom", "communication services", "streaming"]
   - symbol: XLB
     category: sector
     name: Materials Sector ETF
+    keywords: ["materials sector", "mining", "chemicals", "commodities"]
   - symbol: TLT
     category: bonds
     name: 20+ Year Treasury Bond ETF
+    keywords: ["treasury", "bond yield", "yields", "fed", "federal reserve", "interest rate"]
   - symbol: GLD
     category: commodity
     name: Gold ETF
+    keywords: ["gold"]
   - symbol: SLV
     category: commodity
     name: Silver ETF
+    keywords: ["silver"]
   - symbol: USO
     category: commodity
     name: Oil ETF
+    keywords: ["oil price", "crude oil", "opec"]
   - symbol: JETS
     category: thematic
     name: Airline ETF
+    keywords: ["airline", "airlines", "air travel", "aviation"]
   - symbol: SMH
     category: thematic
     name: Semiconductor ETF
+    keywords: ["semiconductor", "chip maker", "chipmaker", "chips"]

@@ -8,10 +8,12 @@ from src.storage.db import (
     get_connection,
     get_latest_timestamp,
     init_db,
+    load_all_news,
     load_news,
     load_prices,
     save_news,
     save_prices,
+    update_news_tags,
 )
 
 
@@ -139,3 +141,30 @@ def test_load_news_orders_by_published_at_desc():
     save_news(conn, _sample_articles())
     news_df = load_news(conn)
     assert news_df.iloc[0]["title"] == "記事B"  # 新しい記事が先頭
+
+
+def test_update_news_tags_sets_related_tickers_and_importance():
+    conn = _fresh_conn()
+    save_news(conn, _sample_articles())
+
+    updates = [
+        {
+            "url": "https://example.com/a",
+            "related_tickers": "XLE,USO",
+            "importance": "HIGH",
+            "importance_keywords": "oil,opec",
+        },
+        {
+            "url": "https://example.com/b",
+            "related_tickers": "",
+            "importance": "LOW",
+            "importance_keywords": "",
+        },
+    ]
+    updated = update_news_tags(conn, updates)
+    assert updated == 2
+
+    all_news = load_all_news(conn)
+    row_a = all_news[all_news["url"] == "https://example.com/a"].iloc[0]
+    assert row_a["related_tickers"] == "XLE,USO"
+    assert row_a["importance"] == "HIGH"
