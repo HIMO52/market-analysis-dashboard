@@ -35,7 +35,7 @@ PCは最初の開発時だけ使い、完成後は起動しっぱなしにする
 | 8〜9 | ニュース関連付け・重要度 | ✅ 完了 |
 | 10〜11 | 市場イベント・値動き分析 | ✅ 完了 |
 | 12〜13 | GitHub Actions定期実行 | ✅ 完了 |
-| 14 | Webダッシュボード / GitHub Pages | 未着手 |
+| 14 | Webダッシュボード / GitHub Pages | ✅ 完了（一部機能は今後追加予定） |
 
 ## フォルダ構成
 
@@ -75,6 +75,16 @@ cp .env.example .env
 # 4. テストを実行
 pytest tests/ -v
 ```
+
+## GitHub Pagesを公開するための設定（1回だけ）
+
+1. GitHubでこのリポジトリを開く
+2. `Settings` → 左メニューの `Pages`
+3. `Build and deployment` の `Source` を `Deploy from a branch` に設定
+4. `Branch` を `main`、フォルダを `/docs` に設定して `Save`
+5. 数分待つと、ページ上部に公開URL（`https://ユーザー名.github.io/market-analysis-dashboard/`）が表示されます
+
+このURLをiPhoneのSafariでブックマークしておけば、いつでも最新のダッシュボードを見られます。
 
 ## GitHub Actionsを動かすための設定（1回だけ）
 

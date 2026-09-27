@@ -10,14 +10,27 @@ SQLiteに保存するスクリプト。
 
 from __future__ import annotations
 
+import json
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from src.config import get_db_path, get_news_sources  # noqa: E402
+from src.config import PROJECT_ROOT, get_db_path, get_news_sources  # noqa: E402
 from src.news.rss_source import fetch_rss_articles  # noqa: E402
 from src.storage.db import get_connection, init_db, save_news  # noqa: E402
+
+
+def _write_status(source_statuses: dict) -> None:
+    status = {
+        "run_at": datetime.now(timezone.utc).isoformat(),
+        "sources": source_statuses,
+    }
+    status_dir = PROJECT_ROOT / "data" / "status"
+    status_dir.mkdir(parents=True, exist_ok=True)
+    with open(status_dir / "news_status.json", "w", encoding="utf-8") as f:
+        json.dump(status, f, ensure_ascii=False, indent=2)
 
 
 def main() -> int:
@@ -31,6 +44,7 @@ def main() -> int:
 
     total_inserted = 0
     error_count = 0
+    source_statuses = {}
 
     for src in sources:
         name = src["name"]
@@ -41,11 +55,14 @@ def main() -> int:
             total_inserted += inserted
             skipped = len(articles) - inserted
             print(f"{name} OK  取得{len(articles)}件 / 新規{inserted}件 / 重複スキップ{skipped}件")
+            source_statuses[name] = "OK"
         except Exception as e:  # フィードごとの失敗で全体を止めない
             error_count += 1
             print(f"{name} ERROR  {e}")
+            source_statuses[name] = f"ERROR: {e}"
 
     conn.close()
+    _write_status(source_statuses)
     print(f"[fetch_news] 完了: 新規保存 {total_inserted}件 / 失敗 {error_count}フィード")
 
     return 1 if (error_count and error_count == len(sources)) else 0

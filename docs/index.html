@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Market Analysis Dashboard</title>
+<style>
+  :root {
+    --bg: #EEF1EF;
+    --surface: #FFFFFF;
+    --ink: #1B2430;
+    --ink-muted: #5B6470;
+    --accent: #8A6D3B;
+    --accent-soft: #EFE6D6;
+    --positive: #1F7A4C;
+    --negative: #B33A3A;
+    --border: #D7DBD9;
+    --radius: 6px;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  .num {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+  header {
+    background: var(--ink);
+    color: #F2F0EA;
+    padding: 18px 16px 14px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    padding-top: calc(18px + env(safe-area-inset-top, 0px));
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+  header .subtitle {
+    margin: 0;
+    font-size: 0.78rem;
+    color: #B9C2C6;
+  }
+  nav.tabs {
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 8px;
+    position: sticky;
+    top: 64px;
+    z-index: 9;
+  }
+  nav.tabs button {
+    flex: 0 0 auto;
+    border: none;
+    background: transparent;
+    color: var(--ink-muted);
+    padding: 12px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+  }
+  nav.tabs button.active {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+  main {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  section.panel { display: none; }
+  section.panel.active { display: block; }
+
+  .disclaimer {
+    background: var(--accent-soft);
+    border: 1px solid #DDCBA0;
+    border-radius: var(--radius);
+    padding: 10px 12px;
+    font-size: 0.78rem;
+    color: #5C4A22;
+    margin-bottom: 16px;
+    line-height: 1.5;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 14px;
+    margin-bottom: 10px;
+  }
+  .ticker-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .ticker-row .symbol {
+    font-weight: 700;
+    font-size: 1rem;
+  }
+  .ticker-row .price {
+    font-size: 1.05rem;
+  }
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px 10px;
+    margin-top: 8px;
+    font-size: 0.78rem;
+  }
+  .metrics .label { color: var(--ink-muted); display: block; }
+  .badges { margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge {
+    font-size: 0.68rem;
+    padding: 2px 7px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--ink-muted);
+  }
+  .pos { color: var(--positive); }
+  .neg { color: var(--negative); }
+
+  h2.section-title {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: 1.05rem;
+    margin: 4px 0 10px;
+  }
+
+  .window-picker { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
+  .window-picker button {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    cursor: pointer;
+    color: var(--ink-muted);
+  }
+  .window-picker button.active {
+    background: var(--ink);
+    color: #F2F0EA;
+    border-color: var(--ink);
+  }
+
+  .heatmap-scroll { overflow-x: auto; margin-bottom: 18px; -webkit-overflow-scrolling: touch; }
+  table.heatmap { border-collapse: collapse; font-size: 0.68rem; }
+  table.heatmap th, table.heatmap td {
+    padding: 5px 7px;
+    text-align: center;
+    border: 1px solid var(--border);
+    min-width: 40px;
+  }
+  table.heatmap th { background: var(--surface); position: sticky; left: 0; }
+  table.heatmap thead th { position: sticky; top: 0; background: var(--surface); }
+
+  table.pairs { width: 100%; border-collapse: collapse; font-size: 0.78rem; }
+  table.pairs th, table.pairs td { padding: 7px 6px; border-bottom: 1px solid var(--border); text-align: right; }
+  table.pairs th:first-child, table.pairs td:first-child { text-align: left; }
+
+  .news-item { margin-bottom: 12px; }
+  .news-item a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.92rem; }
+  .news-item a:hover { text-decoration: underline; }
+  .news-meta { font-size: 0.72rem; color: var(--ink-muted); margin-top: 3px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .importance { font-weight: 700; padding: 1px 7px; border-radius: 3px; font-size: 0.68rem; }
+  .importance.HIGH { background: #F6DEDA; color: var(--negative); }
+  .importance.MEDIUM { background: #F3EBD3; color: #7A5B12; }
+  .importance.LOW { background: #E6EAE7; color: var(--ink-muted); }
+  .chip { background: var(--accent-soft); color: #5C4A22; padding: 1px 7px; border-radius: 999px; font-size: 0.68rem; }
+
+  .status-line { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid var(--border); font-size: 0.82rem; }
+  .status-ok { color: var(--positive); }
+  .status-error { color: var(--negative); }
+
+  .empty { color: var(--ink-muted); font-size: 0.85rem; padding: 20px 0; text-align: center; }
+  footer { text-align: center; font-size: 0.7rem; color: var(--ink-muted); padding: 24px 16px 32px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Market Analysis Dashboard</h1>
+  <p class="subtitle" id="header-updated">読み込み中…</p>
+</header>
+
+<nav class="tabs">
+  <button data-tab="overview" class="active">Overview</button>
+  <button data-tab="correlation">逆相関</button>
+  <button data-tab="news">News</button>
+  <button data-tab="status">更新状況</button>
+</nav>
+
+<main>
+
+  <div class="disclaimer">
+    このサイトは投資判断を自動で決定するものではありません。市場データ・ニュース・相関・トレンドを一箇所に集めて表示するだけであり、「買い」「売り」の断定的な判断は一切含みません。データが不足している項目は「データ不足」と表示されます。
+  </div>
+
+  <section id="panel-overview" class="panel active">
+    <h2 class="section-title">MARKET OVERVIEW</h2>
+    <div id="overview-list"></div>
+  </section>
+
+  <section id="panel-correlation" class="panel">
+    <h2 class="section-title">逆相関ペア分析</h2>
+    <div class="window-picker" id="window-picker"></div>
+    <div class="heatmap-scroll"><table class="heatmap" id="heatmap-table"></table></div>
+    <h2 class="section-title">逆相関候補（基準期間: 1Y）</h2>
+    <div class="heatmap-scroll">
+      <table class="pairs" id="pairs-table">
+        <thead><tr><th>ペア</th><th>1M</th><th>3M</th><th>6M</th><th>1Y</th><th>3Y</th><th>安定性</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="panel-news" class="panel">
+    <h2 class="section-title">最新ニュース</h2>
+    <div id="news-list"></div>
+  </section>
+
+  <section id="panel-status" class="panel">
+    <h2 class="section-title">株価データ取得状況</h2>
+    <div id="market-status-list"></div>
+    <h2 class="section-title" style="margin-top:20px;">ニュース取得状況</h2>
+    <div id="news-status-list"></div>
+  </section>
+
+</main>
+
+<footer>market-analysis-dashboard ・ GitHub Actionsによる自動更新</footer>
+
+<script>
+const fmtPct = (v) => {
+  if (v === null || v === undefined) return "データ不足";
+  const pct = (v * 100).toFixed(2);
+  return (v >= 0 ? "+" : "") + pct + "%";
+};
+const pctClass = (v) => (v === null || v === undefined) ? "" : (v >= 0 ? "pos" : "neg");
+
+const fmtDateTime = (iso) => {
+  if (!iso) return "不明";
+  try {
+    const d = new Date(iso);
+    return d.toLocaleString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" });
+  } catch (e) { return iso; }
+};
+
+async function fetchJSON(path) {
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) {
+    return null;
+  }
+}
+
+// --- タブ切り替え ---
+document.querySelectorAll("nav.tabs button").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("nav.tabs button").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll("section.panel").forEach(p => p.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById("panel-" + btn.dataset.tab).classList.add("active");
+  });
+});
+
+// --- Overview ---
+function renderOverview(data) {
+  const container = document.getElementById("overview-list");
+  if (!data || data.length === 0) {
+    container.innerHTML = '<div class="empty">データがありません</div>';
+    return;
+  }
+  const priority = ["SPY", "QQQ", "IWM", "DIA", "TLT", "GLD"];
+  const sorted = [...data].sort((a, b) => {
+    const ai = priority.indexOf(a.ticker), bi = priority.indexOf(b.ticker);
+    return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
+  });
+
+  container.innerHTML = sorted.map(t => `
+    <div class="card">
+      <div class="ticker-row">
+        <span class="symbol">${t.ticker}</span>
+        <span class="price num">${t.close !== null ? t.close.toFixed(2) : "データ不足"}</span>
+      </div>
+      <div class="metrics num">
+        <div><span class="label">1日</span><span class="${pctClass(t.change_1d)}">${fmtPct(t.change_1d)}</span></div>
+        <div><span class="label">5日</span><span class="${pctClass(t.change_5d)}">${fmtPct(t.change_5d)}</span></div>
+        <div><span class="label">20日</span><span class="${pctClass(t.change_20d)}">${fmtPct(t.change_20d)}</span></div>
+        <div><span class="label">52週高値差</span><span class="${pctClass(t.pct_from_52w_high)}">${fmtPct(t.pct_from_52w_high)}</span></div>
+        <div><span class="label">SMA50</span>${t.sma50_position ? (t.sma50_position === "above" ? "上" : "下") : "データ不足"}</div>
+        <div><span class="label">SMA200</span>${t.sma200_position ? (t.sma200_position === "above" ? "上" : "下") : "データ不足"}</div>
+      </div>
+    </div>
+  `).join("");
+}
+
+// --- Correlation ---
+let correlationData = null;
+let currentWindow = null;
+
+function corrColor(v) {
+  if (v === null || v === undefined || isNaN(v)) return "#F2F2F2";
+  const t = Math.min(Math.abs(v), 1);
+  if (v >= 0) {
+    const g = Math.round(122 + (255 - 122) * (1 - t));
+    return `rgb(${255 - Math.round(t*60)}, ${g}, ${210 - Math.round(t*40)})`;
+  } else {
+    const r = Math.round(179 + (255 - 179) * (1 - t));
+    return `rgb(${r}, ${238 - Math.round(t*100)}, ${218 - Math.round(t*100)})`;
+  }
+}
+
+function renderHeatmap(windowLabel) {
+  const table = document.getElementById("heatmap-table");
+  const matrix = correlationData.matrices[windowLabel];
+  const tickers = correlationData.tickers;
+  if (!matrix) { table.innerHTML = ""; return; }
+
+  let html = "<thead><tr><th></th>" + tickers.map(t => `<th>${t}</th>`).join("") + "</tr></thead><tbody>";
+  for (const rowT of tickers) {
+    html += `<tr><th>${rowT}</th>`;
+    for (const colT of tickers) {
+      const v = matrix[rowT] ? matrix[rowT][colT] : null;
+      const display = (v === null || v === undefined) ? "-" : v.toFixed(2);
+      html += `<td style="background:${corrColor(v)}">${display}</td>`;
+    }
+    html += "</tr>";
+  }
+  table.innerHTML = html + "</tbody>";
+}
+
+function renderPairs() {
+  const tbody = document.querySelector("#pairs-table tbody");
+  const pairs = correlationData.inverse_pairs || [];
+  if (pairs.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="7" class="empty">該当ペアはありません</td></tr>';
+    return;
+  }
+  tbody.innerHTML = pairs.map(p => `
+    <tr>
+      <td>${p.ticker_a} / ${p.ticker_b}</td>
+      <td class="num">${p["1M"] ?? "-"}</td>
+      <td class="num">${p["3M"] ?? "-"}</td>
+      <td class="num">${p["6M"] ?? "-"}</td>
+      <td class="num">${p["1Y"] ?? "-"}</td>
+      <td class="num">${p["3Y"] ?? "-"}</td>
+      <td>${p["安定性"] ?? "-"}</td>
+    </tr>
+  `).join("");
+}
+
+function renderCorrelation(data) {
+  correlationData = data;
+  const picker = document.getElementById("window-picker");
+  if (!data || !data.windows) {
+    picker.innerHTML = "";
+    document.getElementById("heatmap-table").innerHTML = "";
+    return;
+  }
+  currentWindow = data.windows.includes("1Y") ? "1Y" : data.windows[0];
+  picker.innerHTML = data.windows.map(w =>
+    `<button data-window="${w}" class="${w === currentWindow ? "active" : ""}">${w}</button>`
+  ).join("");
+  picker.querySelectorAll("button").forEach(btn => {
+    btn.addEventListener("click", () => {
+      picker.querySelectorAll("button").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      renderHeatmap(btn.dataset.window);
+    });
+  });
+  renderHeatmap(currentWindow);
+  renderPairs();
+}
+
+// --- News ---
+function renderNews(data) {
+  const container = document.getElementById("news-list");
+  if (!data || data.length === 0) {
+    container.innerHTML = '<div class="empty">ニュースがありません</div>';
+    return;
+  }
+  container.innerHTML = data.map(n => `
+    <div class="news-item">
+      <a href="${n.url}" target="_blank" rel="noopener noreferrer">${n.title}</a>
+      <div class="news-meta">
+        <span class="importance ${n.importance}">${n.importance}</span>
+        <span>${n.source}</span>
+        <span>${fmtDateTime(n.published_at)}</span>
+        ${(n.related_tickers || []).map(t => `<span class="chip">${t}</span>`).join("")}
+      </div>
+    </div>
+  `).join("");
+}
+
+// --- Status ---
+function renderStatus(data) {
+  const marketEl = document.getElementById("market-status-list");
+  const newsEl = document.getElementById("news-status-list");
+  if (!data) {
+    marketEl.innerHTML = '<div class="empty">データがありません</div>';
+    newsEl.innerHTML = "";
+    return;
+  }
+
+  const md = data.market_data || {};
+  const tickers = md.tickers || {};
+  document.getElementById("header-updated").textContent =
+    "最終更新: " + fmtDateTime(md.run_at) + "（データ取得元: yfinance / RSS）";
+
+  const tickerEntries = Object.entries(tickers);
+  marketEl.innerHTML = tickerEntries.length === 0
+    ? '<div class="empty">データがありません</div>'
+    : tickerEntries.map(([symbol, status]) => `
+        <div class="status-line">
+          <span>${symbol}</span>
+          <span class="${status === "OK" ? "status-ok" : "status-error"}">${status}</span>
+        </div>
+      `).join("");
+
+  const ns = data.news || {};
+  const sources = ns.sources || {};
+  const sourceEntries = Object.entries(sources);
+  newsEl.innerHTML = sourceEntries.length === 0
+    ? '<div class="empty">データがありません</div>'
+    : sourceEntries.map(([name, status]) => `
+        <div class="status-line">
+          <span>${name}</span>
+          <span class="${status === "OK" ? "status-ok" : "status-error"}">${status}</span>
+        </div>
+      `).join("");
+}
+
+// --- 初期読み込み ---
+(async () => {
+  const [overview, correlation, news, status] = await Promise.all([
+    fetchJSON("./data/overview.json"),
+    fetchJSON("./data/correlation.json"),
+    fetchJSON("./data/news.json"),
+    fetchJSON("./data/status.json"),
+  ]);
+  renderOverview(overview);
+  renderCorrelation(correlation);
+  renderNews(news);
+  renderStatus(status);
+})();
+</script>
+
+</body>
+</html>

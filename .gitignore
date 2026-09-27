@@ -19,9 +19,9 @@ env/
 data/raw/*
 !data/raw/.gitkeep
 
-# --- Webサイト生成物（Actionsが毎回作るので基本コミット不要） ---
-docs/data/*.json
-docs/data/*.json.gz
+# --- Webサイト生成物 ---
+# 【重要】GitHub PagesはリポジトリのdocsフォルダをそのままWebサイトとして
+# 配信する仕組みのため、docs/data/*.jsonもコミットする必要がある（Phase 14）。
 
 # --- OS ---
 .DS_Store

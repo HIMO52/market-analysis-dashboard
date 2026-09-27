@@ -56,12 +56,17 @@ jobs:
         continue-on-error: true
         run: python scripts/tag_news.py
 
+      - name: Webサイト用データを生成
+        id: generate_web_data
+        continue-on-error: true
+        run: python scripts/generate_web_data.py
+
       - name: 変更をコミットしてpush
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/db/market.sqlite
+          git add data/db/market.sqlite data/status/ docs/data/
           if git diff --cached --quiet; then
             echo "変更なし。コミットをスキップします。"
           else
@@ -73,7 +78,8 @@ jobs:
         if: >-
           steps.update_market_data.outcome == 'failure' ||
           steps.fetch_news.outcome == 'failure' ||
-          steps.tag_news.outcome == 'failure'
+          steps.tag_news.outcome == 'failure' ||
+          steps.generate_web_data.outcome == 'failure'
         run: |
           echo "一部のステップが失敗しました。上のログを確認してください。"
           exit 1
