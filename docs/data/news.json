@@ -1,0 +1,248 @@
+[
+  {
+    "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+    "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-27T05:00:02+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+    "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T21:55:01+00:00",
+    "related_tickers": [
+      "XLK"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+    "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T21:21:04+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+    "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T19:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "White House moves to block $810 million in funding through pocket rescission",
+    "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T18:46:48+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+    "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T17:54:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+    "url": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T17:15:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+    "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T17:10:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+    "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T16:57:57+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "A 10% risk-free yield? For some, yes.",
+    "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T16:51:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+    "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T16:22:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+    "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T15:48:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+    "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T15:30:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+    "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T15:05:38+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Do this one thing to help prevent your parents from being scammed",
+    "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T15:04:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+    "url": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T14:16:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+    "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T13:30:06+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Many homeowners have a big insurance coverage gap — and don't even know it",
+    "url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T13:30:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Berkshire adds to nearly doubled stake in slumping homebuilder",
+    "url": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T13:14:15+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
+    "url": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T13:09:33+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "27-year-old started a run club to meet new people—now his NYC side hustle brings in $640K a year",
+    "url": "https://www.cnbc.com/2026/09/26/nyc-run-club-side-hustle.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T13:05:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "China wants in on U.S. AI data center boom. Here's why",
+    "url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T12:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
+    "url": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T11:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+    "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T10:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+    "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T05:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Chinese AI models surge in global popularity — and Washington is worried",
+    "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-26T05:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+    "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-26T00:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+    "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-25T23:30:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+    "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-25T23:28:42+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+    "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-25T22:53:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "run_at": "2026-09-27T10:06:27.089609+00:00",
+  "source": "yfinance",
+  "tickers": {
+    "SPY": "OK",
+    "QQQ": "OK",
+    "IWM": "OK",
+    "DIA": "OK",
+    "XLF": "OK",
+    "XLE": "OK",
+    "XLK": "OK",
+    "XLV": "OK",
+    "XLI": "OK",
+    "XLP": "OK",
+    "XLU": "OK",
+    "XLY": "OK",
+    "XLC": "OK",
+    "XLB": "OK",
+    "TLT": "OK",
+    "GLD": "OK",
+    "SLV": "OK",
+    "USO": "OK",
+    "JETS": "OK",
+    "SMH": "OK"
+  }
+}
