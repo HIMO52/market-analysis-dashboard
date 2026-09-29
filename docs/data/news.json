@@ -1,258 +1,255 @@
 [
   {
-    "title": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
-    "url": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+    "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
+    "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
     "source": "CNBC Top News",
-    "published_at": "2026-09-29T00:33:48+00:00",
+    "published_at": "2026-09-29T16:51:27+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-    "url": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+    "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+    "url": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T16:47:21+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+    "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T16:47:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+    "url": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-29T00:03:00+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
-    "url": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T00:00:10+00:00",
+    "published_at": "2026-09-29T16:45:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
-    "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T23:19:46+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-    "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T23:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
-    "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T22:49:39+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn’t over",
-    "url": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T22:27:10+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-    "url": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+    "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+    "url": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T22:03:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
-    "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T21:52:10+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
-    "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T21:43:40+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-    "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T21:27:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-    "url": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T21:19:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-    "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T21:08:05+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
-    "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T20:43:14+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
-    "url": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T20:43:00+00:00",
-    "related_tickers": [
-      "SPY",
-      "QQQ",
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-    "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T20:36:55+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-    "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T20:16:04+00:00",
-    "related_tickers": [
-      "XLK"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
-    "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T20:13:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
-    "url": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T20:01:16+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Watch: Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-    "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T18:31:58+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Treasury yields rise as march to multiyear highs continues",
-    "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T18:28:30+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
-    "url": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T18:15:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-    "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T18:10:02+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-    "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T18:00:06+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-    "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T17:53:31+00:00",
+    "published_at": "2026-09-29T16:44:00+00:00",
     "related_tickers": [
       "SPY"
     ],
     "importance": "LOW"
   },
   {
-    "title": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
-    "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-28T17:48:15+00:00",
+    "title": "You might be shocked by how many stocks are in a bear market right now",
+    "url": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T16:24:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Oil prices off highs after reports Saudi pipeline ramping back up",
-    "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+    "title": "Education Department extends deadline for student loan interest rate discount",
+    "url": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
     "source": "CNBC Top News",
-    "published_at": "2026-09-28T17:40:23+00:00",
+    "published_at": "2026-09-29T16:23:28+00:00",
     "related_tickers": [
-      "XLE",
-      "USO"
+      "TLT"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Hassett: 'We're still working our way out from' Biden Covid spending",
+    "url": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T16:20:19+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Cramer weighs in on Goldman amid CEO succession talks — plus, Boeing bounces back",
+    "url": "https://www.cnbc.com/2026/09/29/cramers-take-on-goldman-ceo-succession-plus-boeing-bounces-back.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T16:08:12+00:00",
+    "related_tickers": [
+      "GLD"
     ],
     "importance": "LOW"
   },
   {
-    "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-    "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T17:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "IRS hires Joseph Velli to help administer Trump accounts",
-    "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
+    "title": "America's Canadian import restrictions come into force. Here are the products barred from entry",
+    "url": "https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html",
     "source": "CNBC Top News",
-    "published_at": "2026-09-28T17:26:04+00:00",
+    "published_at": "2026-09-29T15:57:43+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
-    "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+    "title": "Microsoft shares might be rangebound. Here's how you can still make money",
+    "url": "https://www.cnbc.com/2026/09/29/microsoft-shares-might-be-rangebound-heres-how-you-can-still-make-money.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T15:56:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Property Play: Homeowners are sitting on record equity – and not using it",
+    "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T15:54:12+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
+    "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T15:46:04+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+    "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-28T17:21:00+00:00",
+    "published_at": "2026-09-29T15:45:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+    "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T15:39:32+00:00",
+    "related_tickers": [
+      "JETS"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
+    "url": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T15:29:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
+    "url": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T15:21:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+    "url": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T15:16:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
+    "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T15:13:08+00:00",
+    "related_tickers": [
+      "JETS"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+    "url": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T14:41:19+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+    "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T14:37:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Rep. James Comer expands House investigation into prediction market insider trading",
+    "url": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T14:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
+    "url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:50:01+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
+    "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:37:49+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
+    "url": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:22:56+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
+    "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:09:30+00:00",
+    "related_tickers": [
+      "SMH"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
+    "url": "https://www.cnbc.com/2026/09/29/longevity-clinic-costs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:09:15+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
+    "url": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:05:06+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "url": "https://www.cnbc.com/2026/09/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:02:41+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "These private and public colleges have the best return on investment, according to The Princeton Review",
+    "url": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T13:00:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
