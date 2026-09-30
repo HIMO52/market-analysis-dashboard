@@ -1,5 +1,161 @@
 [
   {
+    "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
+    "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T00:19:09+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+    "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T22:42:35+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
+    "url": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T21:56:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
+    "url": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T21:53:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+    "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T21:52:00+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
+    "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T21:43:50+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
+    "url": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T21:33:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+    "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-29T21:18:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
+    "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T21:08:05+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
+    "url": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T21:05:26+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T20:51:43+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Goldman Sachs CEO succession planning faces one big problem",
+    "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T20:50:10+00:00",
+    "related_tickers": [
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+    "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T20:33:08+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
+    "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T20:18:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "30-year Treasury bond yield scales to highest level since 2002",
+    "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T20:03:39+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+    "url": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T19:16:35+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "John Ternus' vision for Apple is coming into view, and we like what we see",
+    "url": "https://www.cnbc.com/2026/09/29/john-ternus-vision-for-apple-is-coming-into-view-and-we-like-what-we-see.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T19:08:43+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
+    "url": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-29T18:21:27+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
     "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
     "source": "CNBC Top News",
@@ -98,158 +254,6 @@
     "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
     "source": "CNBC Top News",
     "published_at": "2026-09-29T15:54:12+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-    "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T15:46:04+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-    "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-29T15:45:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-    "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T15:39:32+00:00",
-    "related_tickers": [
-      "JETS"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
-    "url": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-29T15:29:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
-    "url": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-29T15:21:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-    "url": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-29T15:16:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-    "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T15:13:08+00:00",
-    "related_tickers": [
-      "JETS"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-    "url": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T14:41:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T14:37:07+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Rep. James Comer expands House investigation into prediction market insider trading",
-    "url": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T14:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
-    "url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:50:01+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
-    "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:37:49+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
-    "url": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:22:56+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
-    "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:09:30+00:00",
-    "related_tickers": [
-      "SMH"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
-    "url": "https://www.cnbc.com/2026/09/29/longevity-clinic-costs.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:09:15+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
-    "url": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:05:06+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "url": "https://www.cnbc.com/2026/09/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:02:41+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "These private and public colleges have the best return on investment, according to The Princeton Review",
-    "url": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-29T13:00:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
