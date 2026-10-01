@@ -1,5 +1,223 @@
 [
   {
+    "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+    "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-01T00:23:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI links China’s Moonshot AI to attempt to extract its models’ reasoning",
+    "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-01T00:04:29+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+    "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T23:50:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+    "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T23:44:28+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+    "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T23:01:40+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+    "url": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T23:00:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Google shows it’s not out of the AI race just yet",
+    "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T22:51:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+    "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T22:43:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+    "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T22:27:09+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Meta stock enjoys best month since 2022 on AI momentum",
+    "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T21:36:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+    "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T21:21:10+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+    "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T21:16:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+    "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T20:59:05+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "A brutal September for bonds points to an even darker October",
+    "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T20:56:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+    "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T20:51:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
+    "url": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T20:45:01+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
+    "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T20:33:30+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "HIGH"
+  },
+  {
+    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+    "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T20:32:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+    "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T20:17:49+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why Jim Cramer isn't buying more Boeing despite its huge Navy contract win",
+    "url": "https://www.cnbc.com/2026/09/30/why-jim-cramer-isnt-buying-more-boeing-despite-its-huge-navy-contract-win-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T19:47:03+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+    "url": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T19:42:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Senators clinch construction permitting deal before election jet-set",
+    "url": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T19:35:53+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
+    "url": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-09-30T19:21:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
+    "url": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T18:47:35+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "MGM CEO leaves door open to People Inc. bid as casino dealmaking heats up",
+    "url": "https://www.cnbc.com/2026/09/30/mgm-barry-diller-people-inc-casino-dealmaking.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T17:50:49+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Kalshi traders see high odds Anthropic's IPO is announced this year",
+    "url": "https://www.cnbc.com/2026/09/30/kalshi-traders-see-high-odds-anthropics-ipo-is-announced-this-year-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-09-30T17:27:49+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
     "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
     "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
     "source": "CNBC Top News",
@@ -33,222 +251,6 @@
     "related_tickers": [
       "SPY"
     ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-    "url": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T16:20:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-    "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T16:19:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
-    "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T16:14:12+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Saving your retirement could come down to this simple writing exercise",
-    "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T16:11:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
-    "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T16:09:52+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-    "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T16:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
-    "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:56:15+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-    "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T15:55:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:54:38+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
-    "url": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:47:42+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-    "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:36:20+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-    "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T15:28:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
-    "url": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:19:39+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-    "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:19:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-    "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:16:17+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-    "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T15:14:57+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-    "url": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T14:59:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-    "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T14:42:04+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Parents who want to help their kids in a tough job market should avoid this 1 move, says career expert",
-    "url": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T14:40:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-    "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T14:32:03+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
-    "url": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T14:32:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
-    "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T14:31:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
-    "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-09-30T14:31:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-    "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T13:56:14+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-    "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T13:19:37+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-    "url": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-09-30T13:15:33+00:00",
-    "related_tickers": [],
     "importance": "LOW"
   }
 ]
