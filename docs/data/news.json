@@ -1,5 +1,131 @@
 [
   {
+    "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+    "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T22:23:01+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+    "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T22:13:04+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-06T21:52:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
+    "url": "https://www.cnbc.com/make-it/2026/10/06/russia-plague-global-risk.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T21:13:30+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+    "url": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-06T20:37:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+    "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-06T20:21:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "A new analyst call on Home Depot reflects our feeling on what to do with the stock",
+    "url": "https://www.cnbc.com/investingclub/2026/10/06/a-new-analyst-call-on-home-depot-reflects-our-feeling-on-what-to-do-with-the-stock.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T20:00:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
+    "url": "https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T19:35:04+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+    "url": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-06T19:14:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+    "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T18:48:36+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How event contract bundles are boosting volume on prediction markets",
+    "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T18:46:16+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
+    "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-06T18:39:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+    "url": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T18:34:49+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Young voters struggle to afford housing. But they don't expect help from political candidates",
+    "url": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T18:11:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
+    "url": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-06T17:22:20+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
     "url": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
     "source": "CNBC Top News",
@@ -129,130 +255,6 @@
     "related_tickers": [
       "XLE"
     ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T15:06:53+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "64% of Gen Z has tried manifestation, psychics or other mystical dating tactics: ‘People don't feel like they're in control,' says relationship coach",
-    "url": "https://www.cnbc.com/make-it/2026/10/06/gen-z-dating-manifestation-psychics-tarot.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T14:39:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
-    "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T14:33:58+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-    "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T14:29:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Should I put my nest egg in a 30-year Treasury bond?",
-    "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T14:11:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
-    "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T14:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-    "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T14:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Prediction markets are coming for pop culture",
-    "url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T13:58:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-    "url": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T13:54:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-    "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-06T13:40:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Mistral unveils new AI model it says rivals best open systems from China",
-    "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T13:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-    "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T12:59:10+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says",
-    "url": "https://www.cnbc.com/2026/10/06/car-loans-are-getting-longer-as-monthly-payments-hit-record-highs.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T12:15:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX stock is taking off again, but with one key difference this time",
-    "url": "https://www.cnbc.com/2026/10/06/spacex-stock-is-taking-off-again-but-with-one-key-difference-this-time.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T11:44:11+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
-    "url": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-06T11:08:28+00:00",
-    "related_tickers": [],
     "importance": "LOW"
   }
 ]
