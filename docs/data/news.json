@@ -1,265 +1,256 @@
 [
   {
-    "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-    "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T00:51:23+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-    "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T23:10:54+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-    "url": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T22:32:14+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-    "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+    "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+    "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T22:32:00+00:00",
-    "related_tickers": [
-      "SPY",
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-    "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T22:29:41+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
-    "url": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T22:22:32+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Lululemon poaches Athleta CEO as new chief product officer",
-    "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T21:47:06+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-    "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T21:31:40+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
-    "url": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T21:20:40+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
-    "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T21:19:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-    "url": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T20:58:00+00:00",
-    "related_tickers": [
-      "SPY",
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Options traders are betting on a dramatic drop in interest rates",
-    "url": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T20:36:00+00:00",
+    "published_at": "2026-10-08T17:45:00+00:00",
     "related_tickers": [
       "TLT"
     ],
     "importance": "MEDIUM"
   },
   {
-    "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-    "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+    "title": "Trump says U.S. will not attack Iran before midterm election",
+    "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-07T20:33:34+00:00",
+    "published_at": "2026-10-08T17:41:20+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-    "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-07T20:26:13+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock",
-    "url": "https://www.cnbc.com/investingclub/2026/10/07/spacexs-plans-to-buy-more-nvidia-gpus-is-keeping-jim-cramer-bullish-on-the-chip-stock-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T20:24:48+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-    "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T20:03:50+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-    "url": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T19:40:31+00:00",
+    "published_at": "2026-10-08T17:31:03+00:00",
     "related_tickers": [
       "TLT"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-    "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T19:35:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-    "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T19:12:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
-    "url": "https://www.cnbc.com/2026/10/07/strange-market-anomaly-is-creating-a-buying-opportunity-in-the-nasdaq-100.html",
+    "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
+    "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-07T18:44:33+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-    "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T18:42:36+00:00",
+    "published_at": "2026-10-08T17:28:01+00:00",
     "related_tickers": [
       "TLT"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Stocks are increasingly their own best hedge. This chart shows why.",
-    "url": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T18:31:00+00:00",
+    "title": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
+    "url": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T17:27:54+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
-    "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+    "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
+    "url": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T17:26:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "U.S. suspends Microsoft, Adobe from green-card labor program in foreign worker crackdown",
+    "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T17:23:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How to provide guaranteed retirement income while paying no commissions",
+    "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T18:22:00+00:00",
+    "published_at": "2026-10-08T16:57:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
+    "url": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T16:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+    "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T16:50:30+00:00",
     "related_tickers": [
-      "SMH"
+      "XLE",
+      "USO"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
-    "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T18:19:53+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "MEDIUM"
+    "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+    "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T16:32:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
   },
   {
-    "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
-    "url": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+    "title": "Trump Accounts top 70 million as new stock-donation rules open door to 'mega donors,' official says",
+    "url": "https://www.cnbc.com/2026/10/08/trump-accounts-70-million-enrolled.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T16:31:50+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+    "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T16:28:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+    "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T16:25:40+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "America’s renters are emerging as a political movement",
+    "url": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T17:36:00+00:00",
+    "published_at": "2026-10-08T16:11:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "We're putting some of our large cash pile to work in a beaten-down consumer name",
+    "url": "https://www.cnbc.com/investingclub/2026/10/08/were-putting-some-of-our-large-cash-pile-to-work-in-a-beaten-down-consumer-name.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T16:09:16+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
+    "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T15:56:39+00:00",
     "related_tickers": [
       "SPY"
     ],
     "importance": "LOW"
   },
   {
-    "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
-    "url": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
+    "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+    "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T17:32:00+00:00",
+    "published_at": "2026-10-08T15:46:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
-    "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-07T17:27:34+00:00",
+    "title": "The Treasury market is facing a crucial vote of investor confidence",
+    "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T15:37:00+00:00",
     "related_tickers": [
       "TLT"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-    "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+    "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+    "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-07T17:20:12+00:00",
+    "published_at": "2026-10-08T14:51:27+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-    "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+    "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
+    "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-07T17:16:28+00:00",
+    "published_at": "2026-10-08T14:48:18+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-    "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+    "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
+    "url": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T14:44:42+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+    "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T14:43:05+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Layoffs haven’t been this low since the 1960s. It’s great if you have a job — but not if you don’t.",
+    "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-07T17:00:00+00:00",
+    "published_at": "2026-10-08T14:35:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+    "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T14:12:10+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
+    "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T13:40:12+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
+    "url": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T13:29:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why REITs aren't getting killed by rising interest rates this time around",
+    "url": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T11:28:53+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
+    "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T11:04:39+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+    "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T08:43:44+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
