@@ -1,5 +1,145 @@
 [
   {
+    "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk, calls Xi a 'very rational actor'",
+    "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T01:10:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+    "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T01:02:38+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+    "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T00:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+    "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T00:03:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T23:57:23+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+    "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T23:14:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+    "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T22:55:46+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+    "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T22:08:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
+    "url": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T21:43:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+    "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T21:19:14+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+    "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-08T21:15:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+    "url": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T20:16:21+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
+    "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T20:12:33+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+    "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T20:06:31+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Costco's sales resilience is giving Cramer a reason to feel better about the stock",
+    "url": "https://www.cnbc.com/investingclub/2026/10/08/costco-sales-resilience-is-giving-cramer-a-reason-to-feel-better-about-the-stock.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T19:51:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
+    "url": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T18:26:43+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+    "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T17:51:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Rising interest rates: The good, the bad and the ugly for retirees",
     "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -62,6 +202,16 @@
     "importance": "LOW"
   },
   {
+    "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
+    "url": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-08T17:13:32+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
     "title": "How to provide guaranteed retirement income while paying no commissions",
     "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -101,156 +251,6 @@
     "url": "https://www.cnbc.com/2026/10/08/trump-accounts-70-million-enrolled.html",
     "source": "CNBC Top News",
     "published_at": "2026-10-08T16:31:50+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-    "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T16:28:34+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-    "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T16:25:40+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "America’s renters are emerging as a political movement",
-    "url": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-08T16:11:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "We're putting some of our large cash pile to work in a beaten-down consumer name",
-    "url": "https://www.cnbc.com/investingclub/2026/10/08/were-putting-some-of-our-large-cash-pile-to-work-in-a-beaten-down-consumer-name.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T16:09:16+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
-    "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T15:56:39+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-    "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-08T15:46:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The Treasury market is facing a crucial vote of investor confidence",
-    "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-08T15:37:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
-    "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T14:51:27+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
-    "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T14:48:18+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
-    "url": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T14:44:42+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-    "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T14:43:05+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Layoffs haven’t been this low since the 1960s. It’s great if you have a job — but not if you don’t.",
-    "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-08T14:35:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-    "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T14:12:10+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-    "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T13:40:12+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
-    "url": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T13:29:52+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Why REITs aren't getting killed by rising interest rates this time around",
-    "url": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T11:28:53+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
-    "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T11:04:39+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-08T08:43:44+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
