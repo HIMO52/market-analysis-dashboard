@@ -1,5 +1,122 @@
 [
   {
+    "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T23:16:50+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
+    "url": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T22:22:35+00:00",
+    "related_tickers": [
+      "XLF",
+      "SMH"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+    "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T22:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+    "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T21:30:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+    "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T21:27:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Microsoft is nearing a big milestone that solidifies its revival",
+    "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T21:24:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+    "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-09T21:07:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T20:51:25+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T19:25:28+00:00",
+    "related_tickers": [
+      "XLC"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T19:19:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+    "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T19:02:29+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+    "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T18:50:21+00:00",
+    "related_tickers": [
+      "SMH"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "The used car market is stagnant. Here's how to profit anyway",
+    "url": "https://www.cnbc.com/2026/10/09/the-used-car-market-is-stagnant-heres-how-to-profit-anyway.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-09T17:37:31+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
     "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
     "source": "CNBC Top News",
@@ -144,117 +261,5 @@
     "published_at": "2026-10-09T15:07:46+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
-  },
-  {
-    "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
-    "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T15:03:10+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
-    "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-09T15:02:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
-    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T14:50:32+00:00",
-    "related_tickers": [
-      "SLV"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "NBA commissioner says league wants access to prediction market data to detect manipulation",
-    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T14:12:35+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    "url": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T14:12:23+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
-    "url": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T13:53:52+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-    "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T13:09:19+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
-    "url": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T13:07:30+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-    "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T13:03:19+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
-    "url": "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T12:15:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-    "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T12:01:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-    "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T11:57:05+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in",
-    "url": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-09T11:54:21+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
   }
 ]
