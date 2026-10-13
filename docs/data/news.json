@@ -1,5 +1,150 @@
 [
   {
+    "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+    "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T02:37:08+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+    "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T02:29:14+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+    "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T02:11:41+00:00",
+    "related_tickers": [
+      "SPY",
+      "QQQ",
+      "XLF"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T02:09:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+    "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-13T02:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T01:26:41+00:00",
+    "related_tickers": [
+      "XLF",
+      "XLE"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+    "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T00:39:36+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
+    "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-13T00:24:23+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+    "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-13T00:18:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+    "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-12T23:00:01+00:00",
+    "related_tickers": [
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+    "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-12T22:27:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+    "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-12T22:26:59+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+    "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-12T22:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+    "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-12T21:19:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+    "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-12T21:17:58+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+    "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-12T21:02:09+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+    "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-12T20:46:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
     "url": "https://www.cnbc.com/investingclub/2026/10/12/bear-to-bull-a-double-upgrade-of-salesforce-illustrates-the-folly-of-the-saaspocalypse-.html",
     "source": "CNBC Top News",
@@ -106,146 +251,6 @@
     "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
     "published_at": "2026-10-12T16:47:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "UnitedHealth shares are doing something unusual ahead of earnings",
-    "url": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T16:42:13+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Buy these stocks as plays on Google’s big spending, analyst says",
-    "url": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-12T16:31:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-    "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-12T16:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-    "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T15:48:28+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Here’s how much extra money could be in your monthly Social Security check next year",
-    "url": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-12T15:47:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-    "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T15:37:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Micron makes a statement with the latest clue about its cash windfall",
-    "url": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-12T15:06:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
-    "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T15:03:08+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-    "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T14:56:42+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-    "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T14:27:04+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-    "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T14:22:48+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T14:09:02+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-    "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T14:04:16+00:00",
-    "related_tickers": [
-      "SMH"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Banks are set to report this week. Here's what the options market expects",
-    "url": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T13:27:20+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-    "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T13:04:31+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
-    "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T13:01:49+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
-    "url": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-12T12:15:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
