@@ -1,253 +1,254 @@
 [
   {
-    "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-    "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+    "title": "We're exiting our remaining stake in an industrial stock spin-off gone wrong",
+    "url": "https://www.cnbc.com/investingclub/2026/10/14/were-exiting-our-remaining-stake-in-an-industrial-stock-spin-off-gone-wrong.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-14T00:28:34+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-    "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T00:13:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T23:05:12+00:00",
+    "published_at": "2026-10-14T15:40:04+00:00",
     "related_tickers": [
-      "GLD"
+      "XLI"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-    "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T22:54:21+00:00",
+    "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
+    "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T15:33:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-    "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T22:47:07+00:00",
+    "published_at": "2026-10-14T15:25:42+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-    "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+    "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T21:15:32+00:00",
+    "published_at": "2026-10-14T15:20:53+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+    "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T15:19:08+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Micron wins praise from Elon Musk for not being too greedy",
+    "url": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T15:07:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
-    "url": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+    "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T20:52:22+00:00",
+    "published_at": "2026-10-14T15:03:59+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+    "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T15:03:35+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+    "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T15:00:33+00:00",
     "related_tickers": [
-      "XLB"
+      "XLF"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Here's the inflation breakdown for September 2026 — in one chart",
+    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T14:56:25+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+    "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T14:39:21+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T14:25:40+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+    "url": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T14:17:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+    "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T14:17:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+    "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T14:08:16+00:00",
+    "related_tickers": [
+      "XLE",
+      "USO"
     ],
     "importance": "LOW"
   },
   {
-    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T20:48:37+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bank of America fined $1.2 billion over money-laundering violations",
-    "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T20:45:01+00:00",
+    "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+    "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T14:08:00+00:00",
     "related_tickers": [
       "XLF"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-    "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T20:41:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-    "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T20:29:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-    "url": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T20:27:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Micron’s stock extends declines as China competition heats up",
-    "url": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T20:25:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
-    "url": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
+    "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+    "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T19:51:06+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T19:46:12+00:00",
+    "published_at": "2026-10-14T13:48:01+00:00",
     "related_tickers": [
       "TLT"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
-    "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T19:08:28+00:00",
+    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+    "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T13:46:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-    "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+    "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
+    "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T13:45:00+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Trump's diesel dilemma — by the numbers",
+    "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T18:33:42+00:00",
+    "published_at": "2026-10-14T13:35:46+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+    "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T13:31:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+    "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T13:28:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+    "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T13:11:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "'Office' is actually having a scarcity problem",
+    "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T12:24:05+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+    "url": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T12:10:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+    "url": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T12:01:31+00:00",
     "related_tickers": [
-      "JETS"
+      "TLT"
     ],
-    "importance": "LOW"
-  },
-  {
-    "title": "More Republicans come out against Trump's diesel deal with Putin",
-    "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T18:19:42+00:00",
-    "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "The latest inflation data is expected to show price increases are accelerating",
-    "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+    "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
+    "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T18:05:57+00:00",
+    "published_at": "2026-10-14T11:00:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-    "url": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+    "title": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+    "url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T18:02:43+00:00",
+    "published_at": "2026-10-14T10:30:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-    "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T17:54:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
-    "url": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
+    "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+    "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T17:34:44+00:00",
+    "published_at": "2026-10-14T09:18:18+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-    "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T17:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "How to read your body’s warning signs years before you get sick",
-    "url": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T17:22:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-    "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T17:18:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Who should pay for my birthday dinner — me, or my guests?",
-    "url": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T17:14:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-    "url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+    "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+    "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-13T17:07:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-    "url": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T16:53:43+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-    "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-13T16:52:27+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
-    "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-13T16:52:00+00:00",
+    "published_at": "2026-10-14T08:53:35+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
