@@ -1,5 +1,205 @@
 [
   {
+    "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+    "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T23:36:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+    "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T22:48:06+00:00",
+    "related_tickers": [
+      "XLF"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+    "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T22:33:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+    "url": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T22:25:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+    "url": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T22:23:00+00:00",
+    "related_tickers": [
+      "XLF"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+    "url": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T22:19:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+    "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T22:03:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+    "url": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-14T21:54:00+00:00",
+    "related_tickers": [
+      "IWM"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+    "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T21:19:09+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+    "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T21:18:46+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+    "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T21:18:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+    "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T21:09:20+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+    "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T20:46:32+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+    "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T20:24:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+    "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T20:19:25+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T20:06:28+00:00",
+    "related_tickers": [
+      "XLF",
+      "XLK"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+    "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T18:51:42+00:00",
+    "related_tickers": [
+      "XLF",
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+    "url": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T18:41:11+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+    "url": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T18:02:17+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+    "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T17:25:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The steel stock that has the shorts and options traders on edge",
+    "url": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T17:22:55+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How high inflation became a 'fact of life' in the U.S.",
+    "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T17:20:23+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
+    "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-14T16:14:08+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "We're exiting our remaining stake in an industrial stock spin-off gone wrong",
     "url": "https://www.cnbc.com/investingclub/2026/10/14/were-exiting-our-remaining-stake-in-an-industrial-stock-spin-off-gone-wrong.html",
     "source": "CNBC Top News",
@@ -54,201 +254,6 @@
     "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
     "source": "CNBC Top News",
     "published_at": "2026-10-14T15:03:59+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-    "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T15:03:35+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-    "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T15:00:33+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Here's the inflation breakdown for September 2026 — in one chart",
-    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T14:56:25+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
-    "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T14:39:21+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-    "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T14:25:40+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
-    "url": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T14:17:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-    "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T14:17:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-    "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T14:08:16+00:00",
-    "related_tickers": [
-      "XLE",
-      "USO"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-    "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T14:08:00+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
-    "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T13:48:01+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-    "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T13:46:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-    "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T13:45:00+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Trump's diesel dilemma — by the numbers",
-    "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T13:35:46+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-    "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T13:31:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-    "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-14T13:28:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T13:11:07+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "'Office' is actually having a scarcity problem",
-    "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T12:24:05+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-    "url": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T12:10:03+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
-    "url": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T12:01:31+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-    "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T11:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
-    "url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T10:30:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-    "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T09:18:18+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
-    "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-14T08:53:35+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
