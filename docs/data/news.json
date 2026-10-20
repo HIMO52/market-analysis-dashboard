@@ -1,248 +1,259 @@
 [
   {
-    "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-    "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T15:32:49+00:00",
+    "related_tickers": [
+      "XLE",
+      "USO"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+    "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T21:58:00+00:00",
+    "published_at": "2026-10-20T15:27:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "When should you dump your target-date funds?",
-    "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T15:23:57+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+    "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T21:37:00+00:00",
+    "published_at": "2026-10-20T15:17:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-    "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T21:36:00+00:00",
+    "title": "France to deploy military as it braces for fresh unrest this weekend",
+    "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T15:01:38+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "SpaceX earnings will be all about AI — for better or for worse",
-    "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+    "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+    "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T21:02:00+00:00",
+    "published_at": "2026-10-20T15:01:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Is your annuity really guaranteed? Read this before you buy one.",
+    "url": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-20T14:51:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here’s why GM’s stock is having its worst day in over a year",
+    "url": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-20T14:35:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "September data shows housing market in a deep freeze",
+    "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T14:18:58+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T14:12:38+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-    "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+    "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T14:09:16+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "What options traders expect from SpaceX earnings after the bell",
+    "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T14:01:49+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Money-saving habits to cope with higher prices — from our readers",
+    "url": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T21:00:00+00:00",
+    "published_at": "2026-10-20T13:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+    "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T13:50:24+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Apple shares aren't cheap. Here's how to get long for less",
+    "url": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T13:43:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T13:05:15+00:00",
     "related_tickers": [
       "SPY"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+    "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T17:01:26+00:00",
+    "published_at": "2026-10-20T13:03:31+00:00",
+    "related_tickers": [
+      "XLI"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T12:58:24+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Micron and other chip stocks spring back to life after bruising selloff",
-    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T16:59:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+    "url": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T16:58:20+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T16:42:14+00:00",
-    "related_tickers": [],
+    "published_at": "2026-10-20T12:52:29+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
     "importance": "MEDIUM"
   },
   {
-    "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-    "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T16:42:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
-    "url": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T16:35:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-    "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+    "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T16:17:37+00:00",
+    "published_at": "2026-10-20T12:50:24+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "We're buying more of a beaten-up stock before another overhang is lifted",
-    "url": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
+    "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T15:43:16+00:00",
+    "published_at": "2026-10-20T12:45:30+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T15:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-    "url": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T15:26:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-    "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "title": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+    "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T15:10:54+00:00",
+    "published_at": "2026-10-20T12:29:26+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
+    "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T12:00:02+00:00",
     "related_tickers": [
-      "TLT"
+      "GLD"
     ],
     "importance": "LOW"
   },
   {
-    "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
-    "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T14:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-    "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+    "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T14:20:08+00:00",
+    "published_at": "2026-10-20T10:39:17+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-    "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T14:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
-    "url": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
+    "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+    "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T13:46:50+00:00",
+    "published_at": "2026-10-20T10:30:49+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-    "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+    "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T13:36:41+00:00",
+    "published_at": "2026-10-20T10:00:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-19T13:33:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-    "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "title": "What’s making Europe so angry? The frustration behind the protests",
+    "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T12:59:13+00:00",
+    "published_at": "2026-10-20T07:19:16+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-    "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+    "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-19T12:58:03+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T12:34:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-    "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T12:33:07+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-    "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T10:36:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T08:23:33+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
-    "url": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T08:10:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-    "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-19T07:48:53+00:00",
+    "published_at": "2026-10-20T05:57:34+00:00",
     "related_tickers": [
-      "SMH"
+      "GLD"
     ],
     "importance": "LOW"
+  },
+  {
+    "title": "The world’s finance chiefs see new risks — and less China angst",
+    "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T05:27:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+    "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-20T02:44:35+00:00",
+    "related_tickers": [
+      "XLC"
+    ],
+    "importance": "MEDIUM"
   }
 ]
