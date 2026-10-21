@@ -1,5 +1,240 @@
 [
   {
+    "title": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
+    "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:35:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+    "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:30:50+00:00",
+    "related_tickers": [
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Salesforce goes back to the M&A well to fortify a weaker business. Why it's a smart move",
+    "url": "https://www.cnbc.com/investingclub/2026/10/21/salesforce-goes-back-to-the-ma-well-to-fortify-a-weaker-business-why-its-a-smart-move.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:27:03+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
+    "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-21T15:27:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+    "url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:17:03+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "A $50 sports bet costs a young investor hundreds later. Here's how",
+    "url": "https://www.cnbc.com/2026/10/21/sports-betting-young-investors-compounding.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:16:20+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
+    "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T15:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+    "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-21T15:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
+    "url": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T14:40:02+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Time for a Micron mindset shift? Here’s how to navigate the new AI landscape.",
+    "url": "https://www.marketwatch.com/story/time-for-a-micron-mindset-shift-heres-how-to-navigate-the-new-ai-landscape-09395ac8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-21T14:33:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+    "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T14:21:39+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+    "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T13:44:35+00:00",
+    "related_tickers": [
+      "JETS"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+    "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T13:44:12+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+    "url": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T13:13:48+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
+    "url": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T13:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oil prices little changed as traders assess Middle East developments",
+    "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T12:48:55+00:00",
+    "related_tickers": [
+      "XLE",
+      "USO"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+    "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T12:43:49+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+    "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T12:33:34+00:00",
+    "related_tickers": [
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+    "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T12:20:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "House committee says Webull messages point to China access to U.S. customer data",
+    "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T11:05:18+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+    "url": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T10:40:01+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+    "url": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T10:34:20+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
+    "url": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T08:12:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T07:50:10+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+    "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T07:49:48+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+    "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T04:47:43+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+    "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T02:55:38+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "This Janus Henderson fund manager owns CoreWeave debt — here's why he's sticking with it",
+    "url": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-21T00:12:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Japan exports post huge miss in September as growth slows to 16.7%",
     "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
     "source": "CNBC Top News",
@@ -16,242 +251,5 @@
       "SPY"
     ],
     "importance": "LOW"
-  },
-  {
-    "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-    "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T23:10:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-    "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T22:37:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-    "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T22:33:00+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-    "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T22:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-    "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T22:29:45+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-    "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T22:27:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-    "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T22:01:11+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-    "url": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T21:47:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-    "url": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T21:17:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-    "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T20:57:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-    "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T20:45:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
-    "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T20:34:23+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-    "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T20:23:58+00:00",
-    "related_tickers": [
-      "JETS"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T19:28:43+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
-    "url": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T18:30:53+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Traders are betting Netflix's stock drama may be coming to an end",
-    "url": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T18:10:13+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-    "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T18:06:13+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-    "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T15:32:49+00:00",
-    "related_tickers": [
-      "XLE",
-      "USO"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-    "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T15:27:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T15:23:57+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-    "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T15:17:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "To get a reply when reaching out to people, make 1 simple change, says LinkedIn career expert",
-    "url": "https://www.cnbc.com/make-it/2026/10/20/networking-specific-ask-linkedin-career-expert.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T15:09:33+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "France to deploy military as it braces for fresh unrest this weekend",
-    "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T15:01:38+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-    "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T15:01:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Is your annuity really guaranteed? Read this before you buy one.",
-    "url": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T14:51:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Here’s why GM’s stock is having its worst day in over a year",
-    "url": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-20T14:35:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "September data shows housing market in a deep freeze",
-    "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T14:18:58+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-20T14:12:38+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
   }
 ]
