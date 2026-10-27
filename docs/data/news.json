@@ -1,258 +1,251 @@
 [
   {
-    "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-    "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+    "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+    "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-27T00:17:44+00:00",
+    "published_at": "2026-10-27T16:15:35+00:00",
     "related_tickers": [
       "XLF"
     ],
     "importance": "LOW"
   },
   {
-    "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-    "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+    "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
+    "url": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-26T23:10:16+00:00",
+    "published_at": "2026-10-27T16:15:21+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+    "title": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
+    "url": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-26T22:50:07+00:00",
+    "published_at": "2026-10-27T16:13:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Lula’s election win leaves Brazil facing a fiscal tightrope",
+    "url": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T16:12:05+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T16:04:46+00:00",
     "related_tickers": [
-      "SPY"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-    "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T22:46:35+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "DOJ charges ex-FBI Director James Comey in new case",
-    "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T22:24:36+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Dividend stocks are having an excellent October as tech sector struggles",
-    "url": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T22:10:00+00:00",
-    "related_tickers": [
-      "XLK"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
-    "url": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T22:09:35+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Options traders are seizing control of the S&P 500",
-    "url": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T22:03:00+00:00",
-    "related_tickers": [
-      "SPY"
+      "XLE",
+      "USO"
     ],
     "importance": "LOW"
   },
   {
-    "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-    "url": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T22:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-    "url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T21:46:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-    "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T21:44:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-    "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+    "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-26T21:38:17+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-    "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T21:18:07+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-    "url": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T21:04:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "With the Anthropic IPO, the devil is in the details",
-    "url": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T20:50:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-    "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T20:26:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
-    "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T20:08:57+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-    "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T18:43:25+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T18:37:01+00:00",
-    "related_tickers": [
-      "XLY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
-    "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T17:36:55+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-    "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T17:29:37+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-    "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T17:15:32+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T16:51:12+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T16:49:25+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-    "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T16:30:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-    "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T16:24:23+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T16:15:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-    "url": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-26T16:05:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-    "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-26T16:03:57+00:00",
+    "published_at": "2026-10-27T15:52:26+00:00",
     "related_tickers": [
       "TLT"
     ],
-    "importance": "HIGH"
+    "importance": "LOW"
   },
   {
-    "title": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-    "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+    "title": "Anthropic's IPO is risky business",
+    "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-26T16:00:59+00:00",
+    "published_at": "2026-10-27T15:51:41+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
+  },
+  {
+    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+    "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:48:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+    "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:45:49+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+    "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:41:11+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The U.S. economy is gathering steam. This is the chief reason why.",
+    "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T15:34:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "UPS beats quarterly expectations, raises full-year guidance again",
+    "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:29:49+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+    "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T15:27:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+    "url": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T15:25:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+    "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T15:25:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
+    "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:19:50+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T15:04:36+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+    "url": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T15:02:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Microsoft earnings will look funky — but an elusive number is finally arriving",
+    "url": "https://www.marketwatch.com/story/microsoft-earnings-will-look-funky-but-an-elusive-number-is-finally-arriving-73236a94?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-27T14:53:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "A rising wealth tide lifts all yachts",
+    "url": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T14:29:29+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+    "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T14:19:36+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+    "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T14:18:16+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+    "url": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T14:07:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+    "url": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T12:33:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Frozen housing market sends remodelers mixed messages",
+    "url": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T12:20:59+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
+    "url": "https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T12:15:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+    "url": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T11:18:31+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+    "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T10:49:45+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "CRE debt is due, presenting a 'massive' opportunity",
+    "url": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T10:35:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+    "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-27T10:08:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
   }
 ]
