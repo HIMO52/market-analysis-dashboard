@@ -1,256 +1,264 @@
 [
   {
-    "title": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-    "url": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
+    "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+    "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:58:42+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-    "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T16:57:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-    "url": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T16:49:00+00:00",
-    "related_tickers": [
-      "XLV"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-    "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:33:22+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "America's largest budget airline reports 71% jump in airfare",
-    "url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:29:09+00:00",
-    "related_tickers": [
-      "JETS"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-    "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:19:29+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
-    "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:14:29+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-    "url": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T16:13:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-    "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:07:17+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-    "url": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T16:03:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-    "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:00:01+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Microsoft earnings will land after the close",
-    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T16:00:01+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Jim Cramer sees buying opportunities in these 2 beaten-down stocks",
-    "url": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramer-sees-buying-opportunities-in-these-2-beaten-down-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:56:23+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-    "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:53:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "At least 68 people dead in high-speed Spain train crash",
-    "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:41:54+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-    "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:39:14+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-    "url": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T15:36:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "3 reasons home prices keep going up, even though fewer people are buying",
-    "url": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T15:33:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
-    "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:12:09+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-    "url": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T15:09:38+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "These software stocks could be winners as earnings season kicks into high gear",
-    "url": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T15:06:00+00:00",
-    "related_tickers": [
-      "XLK"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
-    "url": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-28T15:03:00+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-    "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T14:35:51+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
-    "url": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T14:35:25+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-    "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T14:20:29+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-    "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T13:52:27+00:00",
+    "published_at": "2026-10-29T01:02:10+00:00",
     "related_tickers": [
       "SMH"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
-    "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+    "url": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-28T13:48:05+00:00",
+    "published_at": "2026-10-29T00:32:02+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Why China is desperate to ship cars outside of the country",
-    "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T13:17:20+00:00",
+    "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+    "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-29T00:20:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-    "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-28T13:09:08+00:00",
+    "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+    "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-29T00:17:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-    "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+    "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+    "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-28T12:49:09+00:00",
+    "published_at": "2026-10-29T00:16:39+00:00",
     "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+    "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-29T00:11:14+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The major reason Microsoft’s stock is heading higher after earnings",
+    "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-29T00:10:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+    "url": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T23:38:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+    "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-28T23:18:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T23:17:17+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+    "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-28T23:02:00+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-28T22:41:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+    "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T22:38:41+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+    "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T22:27:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+    "url": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-28T22:25:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+    "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T22:12:28+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+    "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T22:04:19+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+    "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T21:58:51+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-28T21:45:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T21:31:46+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T21:06:37+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+    "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T20:59:23+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Three media outlets seek full White House access in amended lawsuit",
+    "url": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T20:21:03+00:00",
+    "related_tickers": [
+      "XLC"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+    "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T20:17:19+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+    "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T20:00:44+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T19:53:50+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+    "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T19:52:06+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed holds rates steady despite concerns over inflation",
+    "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T19:43:48+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
+    "url": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T19:17:35+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Here is what changed in the new Fed statement",
+    "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-28T18:06:50+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
     "importance": "LOW"
   }
 ]
