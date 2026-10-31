@@ -1,5 +1,149 @@
 [
   {
+    "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+    "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T23:14:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T22:52:04+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T22:42:26+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "This cybersecurity stock will be the next to join the S&P 500",
+    "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T22:20:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T22:17:13+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+    "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T21:45:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+    "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T21:30:00+00:00",
+    "related_tickers": [
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+    "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T21:23:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+    "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T20:29:00+00:00",
+    "related_tickers": [
+      "SPY",
+      "GLD"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+    "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T20:28:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "The selloff in tech stocks is shifting into overdrive",
+    "url": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-10-30T20:26:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T19:27:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+    "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T18:55:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+    "url": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T18:32:17+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T18:28:09+00:00",
+    "related_tickers": [
+      "XLE",
+      "USO"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why bitcoin held up better after the record Binance hack",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-10-30T18:07:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
     "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
     "source": "CNBC Top News",
@@ -110,143 +254,6 @@
     "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
     "source": "CNBC Top News",
     "published_at": "2026-10-30T15:44:23+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
-    "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:37:21+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-    "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:33:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-    "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T15:26:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-    "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:14:27+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
-    "url": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T15:14:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-    "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:07:48+00:00",
-    "related_tickers": [
-      "XLF",
-      "GLD"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T14:53:12+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Reddit shares on track for biggest-ever one-day drop. It’s not the last of the bad news, analysts say.",
-    "url": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T14:43:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.",
-    "url": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T14:30:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-    "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T12:27:36+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-    "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T11:29:59+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-    "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T11:12:17+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
-    "url": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T11:00:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
-    "url": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T10:32:46+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-    "url": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T09:00:24+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-    "url": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T07:43:39+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
