@@ -1,134 +1,33 @@
 [
   {
-    "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-    "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+    "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
+    "url": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T23:14:00+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T22:52:04+00:00",
+    "published_at": "2026-11-02T20:30:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-    "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+    "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+    "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T22:42:26+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "This cybersecurity stock will be the next to join the S&P 500",
-    "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T22:20:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T22:17:13+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-    "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T21:45:52+00:00",
+    "published_at": "2026-11-02T20:29:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-    "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T21:30:00+00:00",
-    "related_tickers": [
-      "GLD"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-    "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T21:23:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-    "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T20:29:00+00:00",
-    "related_tickers": [
-      "SPY",
-      "GLD"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-    "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T20:28:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "The selloff in tech stocks is shifting into overdrive",
-    "url": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T20:26:00+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-    "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+    "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+    "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T19:27:03+00:00",
+    "published_at": "2026-11-02T20:20:34+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-    "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+    "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+    "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T18:55:44+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-    "url": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T18:32:17+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-    "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T18:28:09+00:00",
+    "published_at": "2026-11-02T20:19:25+00:00",
     "related_tickers": [
       "XLE",
       "USO"
@@ -136,125 +35,229 @@
     "importance": "LOW"
   },
   {
-    "title": "Why bitcoin held up better after the record Binance hack",
-    "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+    "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+    "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T18:07:00+00:00",
+    "published_at": "2026-11-02T19:46:47+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-    "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+    "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+    "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:55:41+00:00",
+    "published_at": "2026-11-02T19:38:58+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
-    "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:54:37+00:00",
+    "published_at": "2026-11-02T19:32:15+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "How soon gas prices could go down now that oil is tumbling",
+    "url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T19:27:00+00:00",
+    "related_tickers": [
+      "XLE"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed will vote on rates less often. What that could mean for borrowers",
+    "url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T19:21:15+00:00",
     "related_tickers": [
       "TLT"
     ],
-    "importance": "HIGH"
+    "importance": "LOW"
   },
   {
-    "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
-    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+    "url": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:54:11+00:00",
+    "published_at": "2026-11-02T19:19:17+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-    "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+    "title": "2 of our banks are at the heart of this week's biggest tech deals",
+    "url": "https://www.cnbc.com/investingclub/2026/11/02/2-of-our-banks-are-at-the-heart-of-this-weeks-biggest-tech-deals.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:52:30+00:00",
+    "published_at": "2026-11-02T19:15:55+00:00",
+    "related_tickers": [
+      "XLF"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+    "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T19:15:26+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    "url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T18:59:48+00:00",
+    "related_tickers": [
+      "XLV"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T18:54:04+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+    "url": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T18:46:31+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Apple reports after the bell. Options traders expect a big move",
+    "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T18:19:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+    "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T18:16:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+    "url": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T18:13:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T18:09:26+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+    "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T18:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Stock market after midterm elections: What S&P 500 history shows",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T17:57:35+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+    "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T17:52:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+    "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T17:32:00+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-    "url": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+    "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T16:45:00+00:00",
+    "published_at": "2026-11-02T17:31:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-    "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "title": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
+    "url": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:44:31+00:00",
+    "published_at": "2026-11-02T17:28:16+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
-    "url": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+    "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+    "url": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:41:34+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Binance's $6.3 billion hack: What we know and what comes next",
-    "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:31:36+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-    "url": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T16:20:00+00:00",
+    "published_at": "2026-11-02T17:04:34+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-    "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T16:04:59+00:00",
+    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T17:00:00+00:00",
     "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+    "url": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T16:56:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
     "importance": "MEDIUM"
   },
   {
-    "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
-    "url": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+    "url": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-10-30T15:53:00+00:00",
-    "related_tickers": [],
+    "published_at": "2026-11-02T16:50:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
     "importance": "LOW"
   },
   {
-    "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
-    "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+    "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+    "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
     "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:52:35+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Jim Cramer reveals 3 stocks to buy — plus, why he is not selling the Intel plunge",
-    "url": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:49:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-    "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-10-30T15:44:23+00:00",
-    "related_tickers": [],
+    "published_at": "2026-11-02T15:30:41+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
     "importance": "LOW"
   }
 ]
