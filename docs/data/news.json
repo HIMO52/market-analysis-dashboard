@@ -1,5 +1,151 @@
 [
   {
+    "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-03T02:50:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+    "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-03T02:47:57+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+    "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-03T02:31:00+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+    "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-03T00:59:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+    "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-03T00:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+    "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-03T00:03:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+    "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T23:54:27+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+    "url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T23:39:00+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+    "url": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T23:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T22:53:20+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+    "url": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T22:03:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+    "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T21:45:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
+    "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T21:35:06+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+    "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T21:35:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+    "url": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T21:29:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Palantir earnings reveal a major AI turning point",
+    "url": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-02T21:09:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
+    "url": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-02T20:57:50+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
     "url": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -111,152 +257,6 @@
     "published_at": "2026-11-02T18:59:48+00:00",
     "related_tickers": [
       "XLV"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T18:54:04+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-    "url": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T18:46:31+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Apple reports after the bell. Options traders expect a big move",
-    "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T18:19:03+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
-    "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T18:16:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-    "url": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T18:13:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T18:09:26+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T18:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Stock market after midterm elections: What S&P 500 history shows",
-    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T17:57:35+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-    "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T17:52:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
-    "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T17:32:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-    "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T17:31:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-    "url": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T17:28:16+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
-    "url": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T17:04:34+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T17:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-    "url": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T16:56:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-    "url": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-02T16:50:00+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-    "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-02T15:30:41+00:00",
-    "related_tickers": [
-      "SPY"
     ],
     "importance": "LOW"
   }
