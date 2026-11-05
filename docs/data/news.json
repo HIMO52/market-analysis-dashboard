@@ -1,254 +1,256 @@
 [
   {
-    "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-    "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+    "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
+    "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-05T01:11:26+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Qualcomm’s stock falls as twin forces pressure sales",
-    "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-05T01:06:00+00:00",
+    "published_at": "2026-11-05T18:34:51+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-    "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-05T01:05:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
-    "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-05T01:03:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-    "url": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-05T01:01:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-    "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-05T00:38:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Snap shares fall over 10% on third-quarter revenue miss",
-    "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+    "title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
+    "url": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-05T00:14:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
-    "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-05T00:04:36+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-04T23:45:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-    "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:44:18+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-    "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:38:11+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
-    "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:23:03+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
-    "url": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:18:56+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-    "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:17:56+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
-    "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:11:48+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-    "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T23:02:39+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-    "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T22:55:22+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-    "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T22:29:51+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "A massive trade just happened in a leading mortgage lender",
-    "url": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T22:24:21+00:00",
+    "published_at": "2026-11-05T18:29:21+00:00",
     "related_tickers": [
       "XLF"
     ],
     "importance": "LOW"
   },
   {
-    "title": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
-    "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T22:13:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
-    "url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+    "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
+    "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-04T22:06:00+00:00",
+    "published_at": "2026-11-05T18:18:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
-    "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T21:57:39+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Every stock that moved because of the election",
-    "url": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T21:48:51+00:00",
+    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T18:15:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-    "url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T21:47:22+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
-    "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T20:53:19+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-    "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T20:14:52+00:00",
+    "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+    "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T18:03:00+00:00",
     "related_tickers": [
-      "XLE",
-      "USO"
+      "SPY"
     ],
     "importance": "LOW"
   },
   {
-    "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
-    "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+    "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+    "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-04T19:58:41+00:00",
+    "published_at": "2026-11-05T17:56:55+00:00",
     "related_tickers": [],
-    "importance": "LOW"
+    "importance": "MEDIUM"
   },
   {
-    "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-    "url": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T19:53:32+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-    "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-04T19:37:43+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "These stocks have soared the most today after the Democrats trounced Trump",
-    "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+    "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-04T18:29:00+00:00",
+    "published_at": "2026-11-05T17:54:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+    "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T17:42:29+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+    "url": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T17:41:16+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+    "url": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T17:34:16+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "I’m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels ‘crazy high’?",
+    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T17:33:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+    "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T17:30:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Three tax proposals targeting the rich that the new Congress could revive",
+    "url": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T17:24:30+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
+    "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T17:11:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "How to buy a new car for under $30,000 in this economy",
+    "url": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T17:04:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+    "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T17:03:35+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid prediction market boom",
+    "url": "https://www.cnbc.com/2026/11/05/las-vegas-raiders-owner-mark-davis-on-sports-gambling-not-a-fan.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:48:55+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Democratic sweep puts crypto on defensive in Washington",
+    "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:48:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:34:33+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Marc Lore's Wonder confidentially files for IPO",
+    "url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:27:10+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
+    "url": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-05T16:23:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
+    "url": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:19:21+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+    "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T16:07:59+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+    "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T15:26:06+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+    "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T15:24:47+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
+    "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T15:08:05+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+    "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T14:33:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
+    "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T14:25:23+00:00",
+    "related_tickers": [
+      "XLE"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Banks are turning cautious on lending, according to the Fed. What it means for the economy",
+    "url": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T13:52:38+00:00",
+    "related_tickers": [
+      "XLF",
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+    "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-05T13:44:45+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
