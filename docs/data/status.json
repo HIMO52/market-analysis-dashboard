@@ -1,6 +1,6 @@
 {
   "market_data": {
-    "run_at": "2026-11-06T17:53:32.385703+00:00",
+    "run_at": "2026-11-07T01:02:36.078010+00:00",
     "source": "yfinance",
     "tickers": {
       "SPY": "OK",
@@ -26,7 +26,7 @@
     }
   },
   "news": {
-    "run_at": "2026-11-06T17:53:33.423699+00:00",
+    "run_at": "2026-11-07T01:02:38.958358+00:00",
     "sources": {
       "CNBC Top News": "OK",
       "MarketWatch Top Stories": "OK",
