@@ -1,5 +1,143 @@
 [
   {
+    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-10T03:38:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+    "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-10T02:55:48+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+    "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-10T01:50:57+00:00",
+    "related_tickers": [
+      "SPY",
+      "QQQ",
+      "XLF"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+    "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-10T01:43:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+    "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-10T00:48:00+00:00",
+    "related_tickers": [
+      "SMH"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-09T23:54:21+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T23:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-09T23:14:38+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+    "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-09T23:00:02+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T22:49:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+    "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T22:49:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-09T22:23:56+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+    "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T21:55:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+    "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T21:52:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+    "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-09T21:24:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+    "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-09T21:21:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Hegseth impeachment articles introduced by Rep. Massie",
     "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
     "source": "CNBC Top News",
@@ -119,138 +257,6 @@
     "related_tickers": [
       "XLE"
     ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
-    "url": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:59:55+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
-    "url": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-09T19:46:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
-    "url": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:41:13+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
-    "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:35:58+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
-    "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:34:43+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "What employers should do to build a pipeline of talented Gen Z workers",
-    "url": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-09T19:28:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
-    "url": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:23:57+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-    "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T19:00:01+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
-    "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T18:59:43+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-    "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T18:46:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "A massive trade in Nvidia just went off – here are the details",
-    "url": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T18:37:59+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-09T18:33:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-    "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T18:14:47+00:00",
-    "related_tickers": [
-      "GLD"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-    "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T18:02:48+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The issues a 'really frustrated' Trump may actually work with Democrats on, according to former Speaker Paul Ryan",
-    "url": "https://www.cnbc.com/2026/11/09/the-issues-a-really-frustrated-trump-may-actually-work-with-democrats-on-according-to-former-speaker-paul-ryan.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T17:52:52+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
-    "url": "https://www.cnbc.com/investingclub/2026/11/09/why-jim-cramer-believes-nvidia-is-still-valuable-despite-the-ceo-affair-controversy.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-09T17:09:44+00:00",
-    "related_tickers": [],
     "importance": "LOW"
   }
 ]
