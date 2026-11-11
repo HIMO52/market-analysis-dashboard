@@ -1,257 +1,246 @@
 [
   {
-    "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-    "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-11T01:14:00+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "HIGH"
-  },
-  {
-    "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-    "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-11T01:12:00+00:00",
+    "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+    "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T18:28:59+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
-    "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+    "title": "Bouncing Wynn Shares might be primed for the 'wheel strategy'",
+    "url": "https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T23:46:35+00:00",
+    "published_at": "2026-11-11T18:24:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
+    "url": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T18:13:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+    "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T18:10:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T18:09:50+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
+    "url": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T18:02:32+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T17:39:26+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+    "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+    "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T23:16:15+00:00",
+    "published_at": "2026-11-11T17:34:18+00:00",
+    "related_tickers": [
+      "JETS"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+    "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T17:22:34+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-    "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+    "title": "JetBlue unveils new first class seats to bring back profits",
+    "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T23:11:34+00:00",
+    "published_at": "2026-11-11T17:20:41+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-    "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T22:39:30+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+    "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
+    "url": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T22:37:00+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
+    "published_at": "2026-11-11T17:13:00+00:00",
+    "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-    "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+    "title": "Need money for a down payment? More employers are offering to help.",
+    "url": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T22:30:00+00:00",
+    "published_at": "2026-11-11T17:06:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
-    "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+    "title": "Bessent moved to military base amid 'growing threats' from Iran",
+    "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T22:08:25+00:00",
+    "published_at": "2026-11-11T16:59:18+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-    "url": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T22:05:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-    "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+    "title": "Jim Cramer's plan for our Intel position. Plus, a rotation loser to buy here",
+    "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-plan-for-our-intel-position-plus-a-rotation-loser-to-buy-here.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T22:01:52+00:00",
+    "published_at": "2026-11-11T16:59:10+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+    "title": "How Democrats could snarl Trump administration stakes in private sector companies",
+    "url": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T22:00:40+00:00",
+    "published_at": "2026-11-11T16:54:29+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T21:45:46+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-    "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T21:37:43+00:00",
+    "published_at": "2026-11-11T16:49:02+00:00",
     "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-    "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T21:36:13+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Traders bet on a pop for Anthropic's historic IPO",
-    "url": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T19:51:18+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-    "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T19:40:41+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T18:30:05+00:00",
-    "related_tickers": [
+      "XLF",
       "TLT"
     ],
     "importance": "HIGH"
   },
   {
-    "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-    "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+    "title": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
+    "url": "https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T18:23:36+00:00",
+    "published_at": "2026-11-11T16:05:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
-    "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T18:22:44+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-    "url": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+    "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+    "url": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T18:21:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-    "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T18:16:00+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
-    "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T18:15:24+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-    "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T18:08:40+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-    "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-10T17:48:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
-    "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T17:34:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-    "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-10T17:33:00+00:00",
+    "published_at": "2026-11-11T16:03:00+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Here's the inflation breakdown for October 2026 — in one chart",
-    "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+    "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+    "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T16:36:40+00:00",
+    "published_at": "2026-11-11T15:53:36+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-    "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
+    "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+    "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T15:26:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+    "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T15:25:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
+    "url": "https://www.cnbc.com/2026/11/11/gabby-williams-embraces-role-in-wnbas-political-and-cultural-debates-.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T16:30:23+00:00",
+    "published_at": "2026-11-11T15:20:59+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+    "url": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T15:15:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+    "url": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T15:14:53+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+    "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T15:08:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+    "url": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-11T14:24:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+    "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T14:13:40+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
-    "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+    "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
+    "url": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-10T16:30:01+00:00",
+    "published_at": "2026-11-11T13:18:48+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
+    "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T12:57:07+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "American soldier arrested on suspicion of spying for Russia",
+    "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-11T10:06:58+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
