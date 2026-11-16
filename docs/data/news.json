@@ -1,256 +1,253 @@
 [
   {
-    "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+    "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-14T01:34:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-14T01:34:11+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
-    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-14T01:28:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX launches Starship in key test flight of massive rocket",
-    "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-14T01:18:51+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T23:54:36+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-    "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T23:42:18+00:00",
+    "published_at": "2026-11-16T20:51:28+00:00",
     "related_tickers": [
-      "SMH"
+      "XLE",
+      "USO"
     ],
     "importance": "LOW"
   },
   {
-    "title": "4 expert tips for signing up for Medicare",
-    "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
+    "url": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T22:45:00+00:00",
+    "published_at": "2026-11-16T20:49:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+    "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+    "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-16T20:46:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+    "url": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T22:18:43+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
-    "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T22:06:55+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-    "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T22:04:00+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
-    "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T21:44:07+00:00",
-    "related_tickers": [
-      "GLD"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-    "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T21:32:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-    "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T21:26:00+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-    "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T21:18:30+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-    "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T21:10:00+00:00",
+    "published_at": "2026-11-16T20:44:24+00:00",
     "related_tickers": [
       "SPY"
     ],
     "importance": "LOW"
   },
   {
-    "title": "They train people to avoid 'honeypot' scams—here are the common red flags they spot: 'It feels so good to be wanted'",
-    "url": "https://www.cnbc.com/make-it/2026/11/13/honeypot-scam-red-flags.html",
+    "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+    "url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-16T20:41:00+00:00",
+    "related_tickers": [
+      "XLV"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T21:06:25+00:00",
+    "published_at": "2026-11-16T20:24:57+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
-    "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+    "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
+    "url": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-16T20:17:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
+    "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T20:48:13+00:00",
+    "published_at": "2026-11-16T20:07:46+00:00",
     "related_tickers": [],
     "importance": "MEDIUM"
   },
   {
-    "title": "Hassett denies report he's leaving White House: 'Not true'",
-    "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+    "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T20:27:47+00:00",
+    "published_at": "2026-11-16T19:46:26+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-    "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T19:30:36+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
-    "url": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T19:01:12+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The epic $29 trillion battle for Social Security has begun",
-    "url": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
+    "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+    "url": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T18:25:00+00:00",
+    "published_at": "2026-11-16T19:34:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "The common theme driving stocks lower — plus, 3 trades and another we want to make",
-    "url": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T18:11:33+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Is a bottom in for the Nasdaq-100? Charts to watch",
-    "url": "https://www.cnbc.com/2026/11/13/is-a-bottom-in-for-the-nasdaq-100-charts-to-watch.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-13T18:00:01+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "I am turning 18 next month and want to start investing. What do I do first?",
-    "url": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
+    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T17:56:00+00:00",
+    "published_at": "2026-11-16T19:31:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-    "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+    "title": "There's a growing 'property tax revolt' as homeowners face rising costs. How it could impact your bill",
+    "url": "https://www.cnbc.com/2026/11/16/property-tax-relief-homeowners-bills.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T17:39:48+00:00",
+    "published_at": "2026-11-16T19:15:18+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
+    "url": "https://www.cnbc.com/2026/11/16/prediction-market-odds-for-tesla-spacex-merger-by-april-2027-top-60percent.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T19:06:41+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-16T19:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Market's Nvidia obsession obscuring an opportunity in this name",
+    "url": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T18:56:49+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+    "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T18:55:46+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+    "url": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-16T18:54:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+    "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T18:46:07+00:00",
     "related_tickers": [
       "TLT"
     ],
-    "importance": "LOW"
+    "importance": "HIGH"
   },
   {
-    "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-    "url": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T17:07:00+00:00",
+    "published_at": "2026-11-16T18:45:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-    "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+    "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T17:06:57+00:00",
+    "published_at": "2026-11-16T18:11:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+    "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+    "url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T17:01:26+00:00",
+    "published_at": "2026-11-16T17:52:38+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
   {
-    "title": "If you could change one thing about caregiving, what would it be?",
-    "url": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-13T17:01:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
-    "url": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
+    "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+    "url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
     "source": "CNBC Top News",
-    "published_at": "2026-11-13T16:54:40+00:00",
+    "published_at": "2026-11-16T17:39:32+00:00",
     "related_tickers": [],
     "importance": "LOW"
+  },
+  {
+    "title": "Robert Pattinson cast as next James Bond",
+    "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T17:25:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T17:22:11+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T17:14:13+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
+    "url": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T16:20:51+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+    "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T15:56:39+00:00",
+    "related_tickers": [
+      "JETS"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
+    "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T15:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
+    "url": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T14:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-16T13:42:43+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
   }
 ]
