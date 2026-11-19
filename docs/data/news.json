@@ -1,5 +1,149 @@
 [
   {
+    "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+    "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T02:41:36+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T01:02:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T01:00:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+    "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T00:31:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T00:08:14+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T00:07:06+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T00:01:23+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-18T23:38:55+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+    "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T23:12:00+00:00",
+    "related_tickers": [
+      "IWM"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "How copper’s plunge could hurt the AI buildout",
+    "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T23:02:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+    "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T22:53:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-18T22:37:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+    "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T22:31:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+    "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T21:58:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+    "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-18T21:19:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+    "url": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-18T21:07:14+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
+    "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-18T19:46:12+00:00",
+    "related_tickers": [
+      "SLV"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
     "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
     "source": "CNBC Top News",
@@ -104,151 +248,6 @@
     "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-18T18:11:41+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Is Apple the safe haven investors think it is? Here's a way to trade it with less risk",
-    "url": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T18:10:21+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
-    "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T17:56:50+00:00",
-    "related_tickers": [
-      "XLY"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-    "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T17:50:37+00:00",
-    "related_tickers": [
-      "XLF"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Social Security should be shut down, this Republican senator says",
-    "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-18T17:46:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-    "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T17:35:27+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
-    "url": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-18T17:23:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T17:17:44+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad",
-    "url": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-18T17:16:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-    "url": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-18T17:14:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
-    "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T17:02:53+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-    "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T16:36:21+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-    "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T16:33:14+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-    "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T16:14:10+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-    "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T15:13:39+00:00",
-    "related_tickers": [
-      "XLF",
-      "TLT"
-    ],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
-    "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T15:09:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
-    "url": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T14:17:18+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
-    "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-18T14:02:52+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
