@@ -1,5 +1,153 @@
 [
   {
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T02:14:50+00:00",
+    "related_tickers": [
+      "QQQ",
+      "XLF"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T01:49:03+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T00:53:55+00:00",
+    "related_tickers": [
+      "SMH"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T00:00:38+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+    "url": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T23:56:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T23:21:23+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+    "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T23:11:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+    "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T22:53:00+00:00",
+    "related_tickers": [
+      "SPY",
+      "XLK"
+    ],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Congress passes bill to protect older investors from financial fraud",
+    "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T22:23:29+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+    "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T22:12:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Markets are sending troubling signals about the state of the economy",
+    "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T21:57:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T21:45:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+    "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T21:40:31+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
+    "url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T21:35:46+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+    "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-19T21:27:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
+    "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T20:17:36+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+    "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-19T20:10:21+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
     "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
     "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
     "source": "CNBC Top News",
@@ -104,150 +252,6 @@
     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-19T18:24:54+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
-    "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-19T18:15:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
-    "url": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-19T18:07:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-    "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-19T18:03:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
-    "url": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-19T18:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T17:59:04+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-    "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-19T17:21:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-    "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T17:01:41+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T16:31:23+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Gold's bad year is getting worse. Why its price keeps falling",
-    "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T16:29:52+00:00",
-    "related_tickers": [
-      "GLD"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-    "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T16:28:06+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T14:57:38+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-    "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T12:46:28+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-    "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T12:02:08+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Data center electricity use could double by 2030, IEA says",
-    "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T11:34:24+00:00",
-    "related_tickers": [
-      "XLU"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
-    "url": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T09:57:53+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-    "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T09:02:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-    "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-19T07:38:29+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
