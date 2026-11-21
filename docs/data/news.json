@@ -1,5 +1,116 @@
 [
   {
+    "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+    "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T22:59:33+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+    "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T22:46:00+00:00",
+    "related_tickers": [
+      "SPY",
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+    "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T22:44:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T22:44:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "url": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T21:39:00+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+    "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T21:39:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T21:36:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T21:35:24+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+    "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T21:34:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-20T21:01:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+    "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T20:06:12+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+    "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T19:42:53+00:00",
+    "related_tickers": [
+      "XLF"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "A massive bearish trade just happened in the chip stocks",
+    "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T19:33:31+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Trump says he discussed Jensen Huang with Xi, contradicting Bessent",
     "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
     "source": "CNBC Top News",
@@ -13,6 +124,16 @@
     "source": "MarketWatch Top Stories",
     "published_at": "2026-11-20T18:57:00+00:00",
     "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+    "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-20T18:55:39+00:00",
+    "related_tickers": [
+      "XLE"
+    ],
     "importance": "LOW"
   },
   {
@@ -128,124 +249,6 @@
     "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-20T16:18:04+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-    "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T15:52:45+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-    "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T15:50:27+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-    "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T15:20:54+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "AI can help find holiday deals — but it's not great at spotting scams, experts say",
-    "url": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T15:12:46+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T14:59:38+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
-    "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T14:34:14+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "The bull market has a new problem. The 'smart money' is selling",
-    "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T14:15:29+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T14:07:24+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules",
-    "url": "https://www.cnbc.com/2026/11/20/fha-mortgage-insurance-cuts-cancellation.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T13:35:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-    "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T13:29:50+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
-    "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T12:00:02+00:00",
-    "related_tickers": [
-      "SPY"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-    "url": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T12:00:02+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-    "url": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T12:00:02+00:00",
-    "related_tickers": [
-      "XLC"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-    "url": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-20T09:56:03+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
