@@ -1,5 +1,129 @@
 [
   {
+    "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T05:09:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+    "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T05:07:16+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T05:05:08+00:00",
+    "related_tickers": [
+      "TLT"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+    "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T04:27:38+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
+    "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T03:32:26+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T03:05:49+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+    "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T02:37:39+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T02:20:36+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+    "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-24T00:56:10+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+    "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-23T23:53:20+00:00",
+    "related_tickers": [],
+    "importance": "HIGH"
+  },
+  {
+    "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-23T23:24:02+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+    "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-23T23:18:00+00:00",
+    "related_tickers": [
+      "SPY"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+    "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-23T23:14:34+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+    "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-23T23:00:01+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-23T22:43:38+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
     "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
     "source": "CNBC Top News",
@@ -126,129 +250,5 @@
       "TLT"
     ],
     "importance": "MEDIUM"
-  },
-  {
-    "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T21:00:59+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-    "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-23T21:00:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-    "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T20:57:41+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
-    "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T20:26:39+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T20:22:49+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
-    "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T19:46:28+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-    "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T19:34:38+00:00",
-    "related_tickers": [
-      "XLK"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "DNI Jay Clayton tapped as acting national cyber director",
-    "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T19:12:49+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "An options strategy for making even more of your money back in Nvidia",
-    "url": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T18:52:46+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T18:00:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
-    "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T17:16:39+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-    "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T16:45:31+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
-    "url": "https://www.cnbc.com/make-it/2026/11/23/stop-maximizing-make-decisions.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T16:25:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-    "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T15:30:27+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-    "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-23T15:22:03+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
   }
 ]
