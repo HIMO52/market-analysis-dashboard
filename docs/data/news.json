@@ -1,9 +1,139 @@
 [
   {
+    "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+    "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T03:32:53+00:00",
+    "related_tickers": [],
+    "importance": "MEDIUM"
+  },
+  {
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T03:19:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+    "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T03:13:43+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+    "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T03:09:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+    "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T01:52:20+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T01:45:52+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T01:34:58+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+    "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T01:10:58+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+    "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T00:12:16+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-25T22:26:56+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+    "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-25T22:16:00+00:00",
+    "related_tickers": [
+      "QQQ"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-25T22:11:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+    "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-25T21:56:43+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+    "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-25T21:50:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+    "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-25T21:00:08+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
     "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-25T20:25:09+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "We're buying more of a stock down big from its July highs",
+    "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-25T19:55:18+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
@@ -112,145 +242,6 @@
     "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-25T17:36:54+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-    "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T17:31:00+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-    "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T17:24:00+00:00",
-    "related_tickers": [],
-    "importance": "HIGH"
-  },
-  {
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T17:15:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
-    "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T17:08:03+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-    "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T16:17:13+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-    "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T16:05:25+00:00",
-    "related_tickers": [],
-    "importance": "MEDIUM"
-  },
-  {
-    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-    "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T16:02:52+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-    "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T16:00:45+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-    "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T15:00:01+00:00",
-    "related_tickers": [
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
-    "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T14:24:04+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T14:18:45+00:00",
-    "related_tickers": [
-      "XLF",
-      "TLT"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-    "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T14:17:01+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-    "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T13:20:34+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-    "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T12:26:41+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-    "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T09:18:37+00:00",
-    "related_tickers": [
-      "XLE"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-    "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T06:29:46+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
