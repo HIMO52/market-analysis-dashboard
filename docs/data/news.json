@@ -1,5 +1,31 @@
 [
   {
+    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-27T03:30:23+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+    "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-27T02:04:09+00:00",
+    "related_tickers": [
+      "XLI"
+    ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-27T00:22:29+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
     "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
     "source": "CNBC Top News",
@@ -28,10 +54,26 @@
     "importance": "LOW"
   },
   {
+    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+    "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T17:04:54+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
     "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-26T16:12:47+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-26T16:00:01+00:00",
     "related_tickers": [],
     "importance": "LOW"
   },
@@ -43,6 +85,14 @@
     "related_tickers": [
       "XLF"
     ],
+    "importance": "LOW"
+  },
+  {
+    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+    "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-26T14:00:00+00:00",
+    "related_tickers": [],
     "importance": "LOW"
   },
   {
@@ -196,56 +246,6 @@
     "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
     "source": "CNBC Top News",
     "published_at": "2026-11-26T01:10:58+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-    "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-26T00:12:16+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-    "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T22:26:56+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-    "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T22:16:00+00:00",
-    "related_tickers": [
-      "QQQ"
-    ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-    "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T22:11:00+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-    "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-25T21:56:43+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-    "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-    "source": "MarketWatch Top Stories",
-    "published_at": "2026-11-25T21:50:00+00:00",
     "related_tickers": [],
     "importance": "LOW"
   }
