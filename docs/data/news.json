@@ -1,5 +1,21 @@
 [
   {
+    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-27T22:00:57+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
+    "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+    "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+    "source": "MarketWatch Top Stories",
+    "published_at": "2026-11-27T19:55:00+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
     "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
     "source": "MarketWatch Top Stories",
@@ -159,6 +175,14 @@
     "importance": "LOW"
   },
   {
+    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+    "source": "CNBC Top News",
+    "published_at": "2026-11-27T10:13:44+00:00",
+    "related_tickers": [],
+    "importance": "LOW"
+  },
+  {
     "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
     "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
     "source": "CNBC Top News",
@@ -226,30 +250,6 @@
       "XLK",
       "SMH"
     ],
-    "importance": "LOW"
-  },
-  {
-    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-    "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-26T17:04:54+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-    "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-26T16:12:47+00:00",
-    "related_tickers": [],
-    "importance": "LOW"
-  },
-  {
-    "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-    "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-    "source": "CNBC Top News",
-    "published_at": "2026-11-26T16:00:01+00:00",
-    "related_tickers": [],
     "importance": "LOW"
   }
 ]
